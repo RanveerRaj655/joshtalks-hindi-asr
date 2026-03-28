@@ -1,0 +1,2144 @@
+﻿word,classification,confidence,reason
+हम्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+हम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+उम्,INCORRECT,HIGH,Suspicious: ends with halant
+अअअ,INCORRECT,HIGH,Invalid: triple character repetition
+ह्म्,INCORRECT,HIGH,Suspicious: ends with halant
+हहह,INCORRECT,HIGH,Invalid: triple character repetition
+ह्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+अह्,INCORRECT,HIGH,Suspicious: ends with halant
+अम्,INCORRECT,HIGH,Suspicious: ends with halant
+हुम्,INCORRECT,HIGH,Suspicious: ends with halant
+अच्,INCORRECT,HIGH,Suspicious: ends with halant
+हममम,INCORRECT,HIGH,Invalid: triple character repetition
+ह्,INCORRECT,HIGH,Suspicious: ends with halant
+हमम्,INCORRECT,HIGH,Suspicious: ends with halant
+अ्,INCORRECT,HIGH,Suspicious: ends with halant
+अअ्,INCORRECT,HIGH,Suspicious: ends with halant
+एम्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म...,INCORRECT,HIGH,Invalid: triple character repetition
+फ्रेंड्,INCORRECT,HIGH,Suspicious: ends with halant
+टाइम्,INCORRECT,HIGH,Suspicious: ends with halant
+वाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सर्,INCORRECT,HIGH,Suspicious: ends with halant
+हुम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+अहहह,INCORRECT,HIGH,Invalid: triple character repetition
+धन्यवाद्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहह,INCORRECT,HIGH,Invalid: triple character repetition
+वौइस्,INCORRECT,HIGH,Suspicious: ends with halant
+बच्,INCORRECT,HIGH,Suspicious: ends with halant
+ताे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एक्,INCORRECT,HIGH,Suspicious: ends with halant
+डिस्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्ममम।,INCORRECT,HIGH,Invalid: triple character repetition
+मेें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हमम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+थैंक्,INCORRECT,HIGH,Suspicious: ends with halant
+अच्छा...,INCORRECT,HIGH,Invalid: triple character repetition
+स्,INCORRECT,HIGH,Suspicious: ends with halant
+केे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अन्,INCORRECT,HIGH,Suspicious: ends with halant
+स्टूडेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+अअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+आआआ,INCORRECT,HIGH,Invalid: triple character repetition
+पॉइंट्,INCORRECT,HIGH,Suspicious: ends with halant
+मतलब...,INCORRECT,HIGH,Invalid: triple character repetition
+हम्मममम,INCORRECT,HIGH,Invalid: triple character repetition
+अब्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहं,INCORRECT,HIGH,Invalid: triple character repetition
+बहुत्,INCORRECT,HIGH,Suspicious: ends with halant
+आप्,INCORRECT,HIGH,Suspicious: ends with halant
+ह्म्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+सब्,INCORRECT,HIGH,Suspicious: ends with halant
+कुुछ,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+जैैसे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एएए,INCORRECT,HIGH,Invalid: triple character repetition
+इस्,INCORRECT,HIGH,Suspicious: ends with halant
+कार्,INCORRECT,HIGH,Suspicious: ends with halant
+चक्,INCORRECT,HIGH,Suspicious: ends with halant
+श्,INCORRECT,HIGH,Suspicious: ends with halant
+उम्म...,INCORRECT,HIGH,Invalid: triple character repetition
+व्हाट्सप्,INCORRECT,HIGH,Suspicious: ends with halant
+हाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कर्,INCORRECT,HIGH,Suspicious: ends with halant
+व्यक्,INCORRECT,HIGH,Suspicious: ends with halant
+बात्,INCORRECT,HIGH,Suspicious: ends with halant
+एप्,INCORRECT,HIGH,Suspicious: ends with halant
+काे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+उस्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+उम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+व्,INCORRECT,HIGH,Suspicious: ends with halant
+फूड्,INCORRECT,HIGH,Suspicious: ends with halant
+हुह्,INCORRECT,HIGH,Suspicious: ends with halant
+रीलस्,INCORRECT,HIGH,Suspicious: ends with halant
+कुटुंबकम्,INCORRECT,HIGH,Suspicious: ends with halant
+आह्,INCORRECT,HIGH,Suspicious: ends with halant
+मतलब्,INCORRECT,HIGH,Suspicious: ends with halant
+फॉरेनर्,INCORRECT,HIGH,Suspicious: ends with halant
+पर्,INCORRECT,HIGH,Suspicious: ends with halant
+इन्,INCORRECT,HIGH,Suspicious: ends with halant
+कॉलेजस्,INCORRECT,HIGH,Suspicious: ends with halant
+इंट्रेस्,INCORRECT,HIGH,Suspicious: ends with halant
+हैलो...,INCORRECT,HIGH,Invalid: triple character repetition
+स्पोर्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+करेेंगे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+उम्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+ह्म्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+हॉन्,INCORRECT,HIGH,Suspicious: ends with halant
+जगह्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐेसे,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+रास्,INCORRECT,HIGH,Suspicious: ends with halant
+संस्,INCORRECT,HIGH,Suspicious: ends with halant
+आम्,INCORRECT,HIGH,Suspicious: ends with halant
+जस्,INCORRECT,HIGH,Suspicious: ends with halant
+हह्,INCORRECT,HIGH,Suspicious: ends with halant
+फिल्,INCORRECT,HIGH,Suspicious: ends with halant
+वगैरह्,INCORRECT,HIGH,Suspicious: ends with halant
+अह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+बिल्कुल...,INCORRECT,HIGH,Invalid: triple character repetition
+छुट्,INCORRECT,HIGH,Suspicious: ends with halant
+माम्,INCORRECT,HIGH,Suspicious: ends with halant
+मम्,INCORRECT,HIGH,Suspicious: ends with halant
+दोस्,INCORRECT,HIGH,Suspicious: ends with halant
+उमममम,INCORRECT,HIGH,Invalid: triple character repetition
+हम्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+क्या...,INCORRECT,HIGH,Invalid: triple character repetition
+क्योंकि...,INCORRECT,HIGH,Invalid: triple character repetition
+ह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+मिनट्,INCORRECT,HIGH,Suspicious: ends with halant
+मलब्,INCORRECT,HIGH,Suspicious: ends with halant
+हाेता,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हर्,INCORRECT,HIGH,Suspicious: ends with halant
+उमम्,INCORRECT,HIGH,Suspicious: ends with halant
+अम्म...,INCORRECT,HIGH,Invalid: triple character repetition
+हमममम,INCORRECT,HIGH,Invalid: triple character repetition
+ममम,INCORRECT,HIGH,Invalid: triple character repetition
+डर्,INCORRECT,HIGH,Suspicious: ends with halant
+अम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+मेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्रेंड्,INCORRECT,HIGH,Suspicious: ends with halant
+"हम्ममम,",INCORRECT,HIGH,Invalid: triple character repetition
+और्,INCORRECT,HIGH,Suspicious: ends with halant
+आपको...,INCORRECT,HIGH,Invalid: triple character repetition
+तुम्,INCORRECT,HIGH,Suspicious: ends with halant
+फैक्,INCORRECT,HIGH,Suspicious: ends with halant
+विश्,INCORRECT,HIGH,Suspicious: ends with halant
+रिश्तेेेदार,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सोच्,INCORRECT,HIGH,Suspicious: ends with halant
+उह्,INCORRECT,HIGH,Suspicious: ends with halant
+मुश्,INCORRECT,HIGH,Suspicious: ends with halant
+पेरेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+कुछ्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐसेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बस्,INCORRECT,HIGH,Suspicious: ends with halant
+मैँम्,INCORRECT,HIGH,Suspicious: ends with halant
+बहुत...,INCORRECT,HIGH,Invalid: triple character repetition
+नहीें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+उसको...,INCORRECT,HIGH,Invalid: triple character repetition
+हहहहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+्,INCORRECT,HIGH,Suspicious: ends with halant
+रिश्,INCORRECT,HIGH,Suspicious: ends with halant
+स्वास्थ्,INCORRECT,HIGH,Suspicious: ends with halant
+सात्,INCORRECT,HIGH,Suspicious: ends with halant
+सिक्स्,INCORRECT,HIGH,Suspicious: ends with halant
+ननन्दा,INCORRECT,HIGH,Invalid: triple character repetition
+सस्,INCORRECT,HIGH,Suspicious: ends with halant
+मैंने...,INCORRECT,HIGH,Invalid: triple character repetition
+वस्,INCORRECT,HIGH,Suspicious: ends with halant
+घर्,INCORRECT,HIGH,Suspicious: ends with halant
+उउउ,INCORRECT,HIGH,Invalid: triple character repetition
+है्,INCORRECT,HIGH,Suspicious: ends with halant
+स्किल्,INCORRECT,HIGH,Suspicious: ends with halant
+टीचर्,INCORRECT,HIGH,Suspicious: ends with halant
+हाइलाइट्,INCORRECT,HIGH,Suspicious: ends with halant
+आॉफिस,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+जीइइइ,INCORRECT,HIGH,Invalid: triple character repetition
+क्लास्,INCORRECT,HIGH,Suspicious: ends with halant
+वगेरह्,INCORRECT,HIGH,Suspicious: ends with halant
+लगभग्,INCORRECT,HIGH,Suspicious: ends with halant
+फ्रूट्,INCORRECT,HIGH,Suspicious: ends with halant
+इच्,INCORRECT,HIGH,Suspicious: ends with halant
+गैजेट्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म्हम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+स्कूल्,INCORRECT,HIGH,Suspicious: ends with halant
+फिर्,INCORRECT,HIGH,Suspicious: ends with halant
+फील्,INCORRECT,HIGH,Suspicious: ends with halant
+बार्,INCORRECT,HIGH,Suspicious: ends with halant
+यार्,INCORRECT,HIGH,Suspicious: ends with halant
+जैसे...,INCORRECT,HIGH,Invalid: triple character repetition
+गर्मीों,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+डॉक्यूमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+वीकेंड्,INCORRECT,HIGH,Suspicious: ends with halant
+डॉक्,INCORRECT,HIGH,Suspicious: ends with halant
+मिस्,INCORRECT,HIGH,Suspicious: ends with halant
+मदद्,INCORRECT,HIGH,Suspicious: ends with halant
+ह्ह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+ग्रेजुेएशन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हमें...,INCORRECT,HIGH,Invalid: triple character repetition
+मेम्,INCORRECT,HIGH,Suspicious: ends with halant
+अख्ह...,INCORRECT,HIGH,Invalid: triple character repetition
+आर्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+सिर्,INCORRECT,HIGH,Suspicious: ends with halant
+देखाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हमारी...,INCORRECT,HIGH,Invalid: triple character repetition
+वेस्,INCORRECT,HIGH,Suspicious: ends with halant
+हैे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बिल्कुल्,INCORRECT,HIGH,Suspicious: ends with halant
+मह्,INCORRECT,HIGH,Suspicious: ends with halant
+सेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बन्,INCORRECT,HIGH,Suspicious: ends with halant
+टेक्,INCORRECT,HIGH,Suspicious: ends with halant
+सी_एम्,INCORRECT,HIGH,Suspicious: ends with halant
+लाइफ्,INCORRECT,HIGH,Suspicious: ends with halant
+ं,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+आ्,INCORRECT,HIGH,Suspicious: ends with halant
+दस्,INCORRECT,HIGH,Suspicious: ends with halant
+तात्,INCORRECT,HIGH,Suspicious: ends with halant
+पीरियड्,INCORRECT,HIGH,Suspicious: ends with halant
+म्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+हैै,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+खर्,INCORRECT,HIGH,Suspicious: ends with halant
+हेल्,INCORRECT,HIGH,Suspicious: ends with halant
+मात्,INCORRECT,HIGH,Suspicious: ends with halant
+हहममम,INCORRECT,HIGH,Invalid: triple character repetition
+नहीं...,INCORRECT,HIGH,Invalid: triple character repetition
+हुउउउ,INCORRECT,HIGH,Invalid: triple character repetition
+आआआआ,INCORRECT,HIGH,Invalid: triple character repetition
+म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रोजेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+अद्,INCORRECT,HIGH,Suspicious: ends with halant
+पहलेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रहेेंगे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+गयाी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हूँम्,INCORRECT,HIGH,Suspicious: ends with halant
+एज्,INCORRECT,HIGH,Suspicious: ends with halant
+डायरेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+नम्,INCORRECT,HIGH,Suspicious: ends with halant
+लेक्,INCORRECT,HIGH,Suspicious: ends with halant
+अहम्म...,INCORRECT,HIGH,Invalid: triple character repetition
+एएएए,INCORRECT,HIGH,Invalid: triple character repetition
+क्वेस्चन्,INCORRECT,HIGH,Suspicious: ends with halant
+बोर्डस्,INCORRECT,HIGH,Suspicious: ends with halant
+सिस्,INCORRECT,HIGH,Suspicious: ends with halant
+काम्,INCORRECT,HIGH,Suspicious: ends with halant
+रहेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+प्रॉपर्,INCORRECT,HIGH,Suspicious: ends with halant
+जोे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+फ़्रेंड्,INCORRECT,HIGH,Suspicious: ends with halant
+हाँम्,INCORRECT,HIGH,Suspicious: ends with halant
+खस्,INCORRECT,HIGH,Suspicious: ends with halant
+हांन्,INCORRECT,HIGH,Suspicious: ends with halant
+वगेरा...,INCORRECT,HIGH,Invalid: triple character repetition
+चानसेस्,INCORRECT,HIGH,Suspicious: ends with halant
+फोकस्,INCORRECT,HIGH,Suspicious: ends with halant
+स्क्वायर्,INCORRECT,HIGH,Suspicious: ends with halant
+टैलन्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+किस्,INCORRECT,HIGH,Suspicious: ends with halant
+डिज़ाइनर्,INCORRECT,HIGH,Suspicious: ends with halant
+हिन्,INCORRECT,HIGH,Suspicious: ends with halant
+अद्भुत्,INCORRECT,HIGH,Suspicious: ends with halant
+अनुभव...,INCORRECT,HIGH,Invalid: triple character repetition
+चोविस्,INCORRECT,HIGH,Suspicious: ends with halant
+साल्,INCORRECT,HIGH,Suspicious: ends with halant
+बाद्,INCORRECT,HIGH,Suspicious: ends with halant
+हाफ्,INCORRECT,HIGH,Suspicious: ends with halant
+स्ट्रोक्स्,INCORRECT,HIGH,Suspicious: ends with halant
+अत्,INCORRECT,HIGH,Suspicious: ends with halant
+शशश,INCORRECT,HIGH,Invalid: triple character repetition
+दुख्,INCORRECT,HIGH,Suspicious: ends with halant
+हूं-हूं...,INCORRECT,HIGH,Invalid: triple character repetition
+जशन्,INCORRECT,HIGH,Suspicious: ends with halant
+ड्रिंक्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म....।,INCORRECT,HIGH,Invalid: triple character repetition
+टॉक्,INCORRECT,HIGH,Suspicious: ends with halant
+जब्,INCORRECT,HIGH,Suspicious: ends with halant
+फस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+चीज़ेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बट्,INCORRECT,HIGH,Suspicious: ends with halant
+सुुबह,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बोल्,INCORRECT,HIGH,Suspicious: ends with halant
+पुरानी...,INCORRECT,HIGH,Invalid: triple character repetition
+मुुझे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+विचार्,INCORRECT,HIGH,Suspicious: ends with halant
+जल्,INCORRECT,HIGH,Suspicious: ends with halant
+मोमोस्,INCORRECT,HIGH,Suspicious: ends with halant
+हिंदुस्,INCORRECT,HIGH,Suspicious: ends with halant
+मातरम्,INCORRECT,HIGH,Suspicious: ends with halant
+उह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+इश्,INCORRECT,HIGH,Suspicious: ends with halant
+आफ्,INCORRECT,HIGH,Suspicious: ends with halant
+जी...जी,INCORRECT,HIGH,Invalid: triple character repetition
+मुस्,INCORRECT,HIGH,Suspicious: ends with halant
+एट्,INCORRECT,HIGH,Suspicious: ends with halant
+कुर्,INCORRECT,HIGH,Suspicious: ends with halant
+फुुर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हैैै,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हैैलो,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अअअ्,INCORRECT,HIGH,Invalid: triple character repetition
+गेस्,INCORRECT,HIGH,Suspicious: ends with halant
+कैेपिंग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एक्सपीरियंस्,INCORRECT,HIGH,Suspicious: ends with halant
+वन्,INCORRECT,HIGH,Suspicious: ends with halant
+नेक्स्,INCORRECT,HIGH,Suspicious: ends with halant
+कुस्,INCORRECT,HIGH,Suspicious: ends with halant
+गेर्बोलिन्,INCORRECT,HIGH,Suspicious: ends with halant
+तर्,INCORRECT,HIGH,Suspicious: ends with halant
+सप्,INCORRECT,HIGH,Suspicious: ends with halant
+तोे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हमारा...,INCORRECT,HIGH,Invalid: triple character repetition
+पेेडल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+या...अगर,INCORRECT,HIGH,Invalid: triple character repetition
+जिससे...,INCORRECT,HIGH,Invalid: triple character repetition
+...थोड़ा,INCORRECT,HIGH,Invalid: triple character repetition
+हांअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+हुममम,INCORRECT,HIGH,Invalid: triple character repetition
+रेेटिंग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मसिन्,INCORRECT,HIGH,Suspicious: ends with halant
+होगा...,INCORRECT,HIGH,Invalid: triple character repetition
+गोवर्,INCORRECT,HIGH,Suspicious: ends with halant
+ट्वेल्,INCORRECT,HIGH,Suspicious: ends with halant
+खत्,INCORRECT,HIGH,Suspicious: ends with halant
+करेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+लग्जरीस्,INCORRECT,HIGH,Suspicious: ends with halant
+करने...,INCORRECT,HIGH,Invalid: triple character repetition
+कोस्,INCORRECT,HIGH,Suspicious: ends with halant
+उम्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+डायरेक्,INCORRECT,HIGH,Suspicious: ends with halant
+अटैच्,INCORRECT,HIGH,Suspicious: ends with halant
+मिक्,INCORRECT,HIGH,Suspicious: ends with halant
+क्राफ्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+ओह्,INCORRECT,HIGH,Suspicious: ends with halant
+अअअ.,INCORRECT,HIGH,Invalid: triple character repetition
+येस्,INCORRECT,HIGH,Suspicious: ends with halant
+आन्,INCORRECT,HIGH,Suspicious: ends with halant
+फ़ॉरन्,INCORRECT,HIGH,Suspicious: ends with halant
+बिलकुल...,INCORRECT,HIGH,Invalid: triple character repetition
+एपल्,INCORRECT,HIGH,Suspicious: ends with halant
+लास्,INCORRECT,HIGH,Suspicious: ends with halant
+जॉब्,INCORRECT,HIGH,Suspicious: ends with halant
+पप्,INCORRECT,HIGH,Suspicious: ends with halant
+करेेगा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+दूर्,INCORRECT,HIGH,Suspicious: ends with halant
+यक्,INCORRECT,HIGH,Suspicious: ends with halant
+हप्,INCORRECT,HIGH,Suspicious: ends with halant
+वगैैह,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+मेरे...,INCORRECT,HIGH,Invalid: triple character repetition
+काेई,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+नाइन्टीन्,INCORRECT,HIGH,Suspicious: ends with halant
+शेेयर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+परिवार्,INCORRECT,HIGH,Suspicious: ends with halant
+हाहाहाहा......,INCORRECT,HIGH,Invalid: triple character repetition
+अहहहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+तस्,INCORRECT,HIGH,Suspicious: ends with halant
+थे्,INCORRECT,HIGH,Suspicious: ends with halant
+समझ्,INCORRECT,HIGH,Suspicious: ends with halant
+मैम्,INCORRECT,HIGH,Suspicious: ends with halant
+डिरेक्,INCORRECT,HIGH,Suspicious: ends with halant
+साे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इंस्,INCORRECT,HIGH,Suspicious: ends with halant
+सिंग्,INCORRECT,HIGH,Suspicious: ends with halant
+एहहह,INCORRECT,HIGH,Invalid: triple character repetition
+पैरेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+कंटिन्यूौसली,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+फिक्स्,INCORRECT,HIGH,Suspicious: ends with halant
+बच्चे...,INCORRECT,HIGH,Invalid: triple character repetition
+वह्,INCORRECT,HIGH,Suspicious: ends with halant
+अममम,INCORRECT,HIGH,Invalid: triple character repetition
+मजाक्,INCORRECT,HIGH,Suspicious: ends with halant
+बेस्,INCORRECT,HIGH,Suspicious: ends with halant
+समस्,INCORRECT,HIGH,Suspicious: ends with halant
+एैप,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+मममम,INCORRECT,HIGH,Invalid: triple character repetition
+रिजल्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+तरह्,INCORRECT,HIGH,Suspicious: ends with halant
+चीज़...,INCORRECT,HIGH,Invalid: triple character repetition
+वजह्,INCORRECT,HIGH,Suspicious: ends with halant
+जाऊॅगी,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+स्नैक्,INCORRECT,HIGH,Suspicious: ends with halant
+हाेपलेस,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पट्,INCORRECT,HIGH,Suspicious: ends with halant
+डेथ्,INCORRECT,HIGH,Suspicious: ends with halant
+जिस्,INCORRECT,HIGH,Suspicious: ends with halant
+हहम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+बिल्कुल....,INCORRECT,HIGH,Invalid: triple character repetition
+अच्छाी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मोमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रॉब्,INCORRECT,HIGH,Suspicious: ends with halant
+पारम्,INCORRECT,HIGH,Suspicious: ends with halant
+आपकाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अनुभव्,INCORRECT,HIGH,Suspicious: ends with halant
+अदर्,INCORRECT,HIGH,Suspicious: ends with halant
+तक्,INCORRECT,HIGH,Suspicious: ends with halant
+मन्,INCORRECT,HIGH,Suspicious: ends with halant
+जिन्,INCORRECT,HIGH,Suspicious: ends with halant
+हिस्,INCORRECT,HIGH,Suspicious: ends with halant
+प्वाइंट्,INCORRECT,HIGH,Suspicious: ends with halant
+जिद्,INCORRECT,HIGH,Suspicious: ends with halant
+एयरबर्डस्,INCORRECT,HIGH,Suspicious: ends with halant
+मुझे...,INCORRECT,HIGH,Invalid: triple character repetition
+हेलो...,INCORRECT,HIGH,Invalid: triple character repetition
+बॉयस्,INCORRECT,HIGH,Suspicious: ends with halant
+अम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+अअह्,INCORRECT,HIGH,Suspicious: ends with halant
+जरूरत्,INCORRECT,HIGH,Suspicious: ends with halant
+फस्,INCORRECT,HIGH,Suspicious: ends with halant
+केि,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+विपत्,INCORRECT,HIGH,Suspicious: ends with halant
+ईईई,INCORRECT,HIGH,Invalid: triple character repetition
+हम्हम्,INCORRECT,HIGH,Suspicious: ends with halant
+नननन,INCORRECT,HIGH,Invalid: triple character repetition
+गाँँव्,INCORRECT,HIGH,Suspicious: ends with halant
+हाेपफुली,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+तब्,INCORRECT,HIGH,Suspicious: ends with halant
+नाैकरी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ऐैसा,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+सुब्,INCORRECT,HIGH,Suspicious: ends with halant
+ईयरस्,INCORRECT,HIGH,Suspicious: ends with halant
+कह्,INCORRECT,HIGH,Suspicious: ends with halant
+लोगाें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रेेट,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वास्,INCORRECT,HIGH,Suspicious: ends with halant
+हमलोग्,INCORRECT,HIGH,Suspicious: ends with halant
+अहममम,INCORRECT,HIGH,Invalid: triple character repetition
+हरेक्,INCORRECT,HIGH,Suspicious: ends with halant
+राइट्,INCORRECT,HIGH,Suspicious: ends with halant
+हमम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+फर्स्,INCORRECT,HIGH,Suspicious: ends with halant
+पास्,INCORRECT,HIGH,Suspicious: ends with halant
+ह्मन्,INCORRECT,HIGH,Suspicious: ends with halant
+पेट्,INCORRECT,HIGH,Suspicious: ends with halant
+देेती,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इइइ,INCORRECT,HIGH,Invalid: triple character repetition
+ननन,INCORRECT,HIGH,Invalid: triple character repetition
+टैक्,INCORRECT,HIGH,Suspicious: ends with halant
+हाेते,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इसलिए...,INCORRECT,HIGH,Invalid: triple character repetition
+गेमस्,INCORRECT,HIGH,Suspicious: ends with halant
+थाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आजकल...,INCORRECT,HIGH,Invalid: triple character repetition
+ा,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+बच्चपन्,INCORRECT,HIGH,Suspicious: ends with halant
+वॉइस्,INCORRECT,HIGH,Suspicious: ends with halant
+मेंबर्,INCORRECT,HIGH,Suspicious: ends with halant
+लेकिन...,INCORRECT,HIGH,Invalid: triple character repetition
+हहमम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+छन्,INCORRECT,HIGH,Suspicious: ends with halant
+पकवान्,INCORRECT,HIGH,Suspicious: ends with halant
+एैसा,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+सुपरफास्,INCORRECT,HIGH,Suspicious: ends with halant
+टक्,INCORRECT,HIGH,Suspicious: ends with halant
+इसके...,INCORRECT,HIGH,Invalid: triple character repetition
+जजज,INCORRECT,HIGH,Invalid: triple character repetition
+फ्रेंडस्,INCORRECT,HIGH,Suspicious: ends with halant
+जैसेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ऊपर्,INCORRECT,HIGH,Suspicious: ends with halant
+अनप्लान्,INCORRECT,HIGH,Suspicious: ends with halant
+उनकाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्रकस्,INCORRECT,HIGH,Suspicious: ends with halant
+वर्ड्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्स्,INCORRECT,HIGH,Suspicious: ends with halant
+एैसी,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+अचानक्,INCORRECT,HIGH,Suspicious: ends with halant
+असली...,INCORRECT,HIGH,Invalid: triple character repetition
+हम्ममम.,INCORRECT,HIGH,Invalid: triple character repetition
+पल्,INCORRECT,HIGH,Suspicious: ends with halant
+पहुुंचेगा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+विजन्,INCORRECT,HIGH,Suspicious: ends with halant
+आपका...,INCORRECT,HIGH,Invalid: triple character repetition
+गेम्,INCORRECT,HIGH,Suspicious: ends with halant
+ओह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रैक्,INCORRECT,HIGH,Suspicious: ends with halant
+सुूना,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बहुुत,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+उममम,INCORRECT,HIGH,Invalid: triple character repetition
+बेहस्,INCORRECT,HIGH,Suspicious: ends with halant
+बृहस्,INCORRECT,HIGH,Suspicious: ends with halant
+रुत्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रतिबत्,INCORRECT,HIGH,Suspicious: ends with halant
+हमम.हमम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+माेंडन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हमम्ममम.,INCORRECT,HIGH,Invalid: triple character repetition
+हार्,INCORRECT,HIGH,Suspicious: ends with halant
+ब्रह्,INCORRECT,HIGH,Suspicious: ends with halant
+रिस्,INCORRECT,HIGH,Suspicious: ends with halant
+वो्,INCORRECT,HIGH,Suspicious: ends with halant
+कॉलीगस्,INCORRECT,HIGH,Suspicious: ends with halant
+वाहिकल्,INCORRECT,HIGH,Suspicious: ends with halant
+टफ्,INCORRECT,HIGH,Suspicious: ends with halant
+निभर्र्,INCORRECT,HIGH,Suspicious: ends with halant
+चखतेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आइट्,INCORRECT,HIGH,Suspicious: ends with halant
+भरतनाट्यम्,INCORRECT,HIGH,Suspicious: ends with halant
+इंस्ट्रूमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+स्टेशन्,INCORRECT,HIGH,Suspicious: ends with halant
+टास्,INCORRECT,HIGH,Suspicious: ends with halant
+लेकर्,INCORRECT,HIGH,Suspicious: ends with halant
+स्टेट्,INCORRECT,HIGH,Suspicious: ends with halant
+कट्,INCORRECT,HIGH,Suspicious: ends with halant
+ट्वूेंटी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हमलाेग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हंह्,INCORRECT,HIGH,Suspicious: ends with halant
+कज़्न्,INCORRECT,HIGH,Suspicious: ends with halant
+विश्णुपत्,INCORRECT,HIGH,Suspicious: ends with halant
+बर्,INCORRECT,HIGH,Suspicious: ends with halant
+दट्,INCORRECT,HIGH,Suspicious: ends with halant
+काउल्,INCORRECT,HIGH,Suspicious: ends with halant
+तब्यात्,INCORRECT,HIGH,Suspicious: ends with halant
+गाव्,INCORRECT,HIGH,Suspicious: ends with halant
+एस्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्मम्,INCORRECT,HIGH,Suspicious: ends with halant
+हं.हहहा,INCORRECT,HIGH,Invalid: triple character repetition
+फाइवसिक्स्,INCORRECT,HIGH,Suspicious: ends with halant
+डिस्कस्,INCORRECT,HIGH,Suspicious: ends with halant
+दिलीप्,INCORRECT,HIGH,Suspicious: ends with halant
+चीपएस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+हैज्,INCORRECT,HIGH,Suspicious: ends with halant
+आशीर्,INCORRECT,HIGH,Suspicious: ends with halant
+पब्,INCORRECT,HIGH,Suspicious: ends with halant
+काेंचिग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हैलाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+नुक्,INCORRECT,HIGH,Suspicious: ends with halant
+प्राप्,INCORRECT,HIGH,Suspicious: ends with halant
+हआंव्,INCORRECT,HIGH,Suspicious: ends with halant
+डब्,INCORRECT,HIGH,Suspicious: ends with halant
+मेैम,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वेल्,INCORRECT,HIGH,Suspicious: ends with halant
+हूंममम,INCORRECT,HIGH,Invalid: triple character repetition
+टिकेटस्,INCORRECT,HIGH,Suspicious: ends with halant
+आत्म्,INCORRECT,HIGH,Suspicious: ends with halant
+सृजाम्यहम्,INCORRECT,HIGH,Suspicious: ends with halant
+हाउसवाइफस्,INCORRECT,HIGH,Suspicious: ends with halant
+माेमबत्तियां,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हहहह.सही,INCORRECT,HIGH,Invalid: triple character repetition
+रेशीयम्,INCORRECT,HIGH,Suspicious: ends with halant
+उर्,INCORRECT,HIGH,Suspicious: ends with halant
+फूडस्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहाहाहा,INCORRECT,HIGH,Invalid: triple character repetition
+सपउझ़्,INCORRECT,HIGH,Suspicious: ends with halant
+डिसिप्,INCORRECT,HIGH,Suspicious: ends with halant
+काफ्,INCORRECT,HIGH,Suspicious: ends with halant
+पतेर्,INCORRECT,HIGH,Suspicious: ends with halant
+हममम्म,INCORRECT,HIGH,Invalid: triple character repetition
+हमकाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+"सर,बिल्",INCORRECT,HIGH,Suspicious: ends with halant
+सेमेेटे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+युद्,INCORRECT,HIGH,Suspicious: ends with halant
+खूूब,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+क्वाटर्,INCORRECT,HIGH,Suspicious: ends with halant
+खिक्,INCORRECT,HIGH,Suspicious: ends with halant
+किलियर्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐऐऐऐ,INCORRECT,HIGH,Invalid: triple character repetition
+एक्साम्पल्,INCORRECT,HIGH,Suspicious: ends with halant
+मूश्श्,INCORRECT,HIGH,Suspicious: ends with halant
+टॉउन्स्,INCORRECT,HIGH,Suspicious: ends with halant
+मंदिर्,INCORRECT,HIGH,Suspicious: ends with halant
+हअअअ.,INCORRECT,HIGH,Invalid: triple character repetition
+चूज्,INCORRECT,HIGH,Suspicious: ends with halant
+रेलवेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इस्ट्रेस्,INCORRECT,HIGH,Suspicious: ends with halant
+इंस्टुमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+रस्,INCORRECT,HIGH,Suspicious: ends with halant
+हअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+"है,हम्म्",INCORRECT,HIGH,Suspicious: ends with halant
+भूूल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कीों,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ज़ज्,INCORRECT,HIGH,Suspicious: ends with halant
+बेस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+हममम.,INCORRECT,HIGH,Invalid: triple character repetition
+सच्चिन्,INCORRECT,HIGH,Suspicious: ends with halant
+जस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+समाज्,INCORRECT,HIGH,Suspicious: ends with halant
+अअअह,INCORRECT,HIGH,Invalid: triple character repetition
+एैसे,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+व्यक्तिगत्,INCORRECT,HIGH,Suspicious: ends with halant
+समर्,INCORRECT,HIGH,Suspicious: ends with halant
+गर्लफ्रैंड्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहओ,INCORRECT,HIGH,Invalid: triple character repetition
+गर्ल्,INCORRECT,HIGH,Suspicious: ends with halant
+।हम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+एै,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+हहहा,INCORRECT,HIGH,Invalid: triple character repetition
+तेरह्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहु,INCORRECT,HIGH,Invalid: triple character repetition
+हुंह्,INCORRECT,HIGH,Suspicious: ends with halant
+सजेस्चन्,INCORRECT,HIGH,Suspicious: ends with halant
+हुड्,INCORRECT,HIGH,Suspicious: ends with halant
+डायेरेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रवेश्,INCORRECT,HIGH,Suspicious: ends with halant
+बिल्क्,INCORRECT,HIGH,Suspicious: ends with halant
+सिक्,INCORRECT,HIGH,Suspicious: ends with halant
+अव्,INCORRECT,HIGH,Suspicious: ends with halant
+भांग्,INCORRECT,HIGH,Suspicious: ends with halant
+चिन्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+फेमस्,INCORRECT,HIGH,Suspicious: ends with halant
+गर्,INCORRECT,HIGH,Suspicious: ends with halant
+वाैसम,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+किलिप्,INCORRECT,HIGH,Suspicious: ends with halant
+उउउउ,INCORRECT,HIGH,Invalid: triple character repetition
+एसडीूल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मोनकाेली,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कॉलिंस्,INCORRECT,HIGH,Suspicious: ends with halant
+बिक्,INCORRECT,HIGH,Suspicious: ends with halant
+आगेस्,INCORRECT,HIGH,Suspicious: ends with halant
+सप्लिमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+हैह्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+राेज,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इंपासीबल्,INCORRECT,HIGH,Suspicious: ends with halant
+नहीं।हम्,INCORRECT,HIGH,Suspicious: ends with halant
+अनप्लांड्,INCORRECT,HIGH,Suspicious: ends with halant
+क्लॉक्,INCORRECT,HIGH,Suspicious: ends with halant
+स्कूलस्,INCORRECT,HIGH,Suspicious: ends with halant
+",धन्यवाद्",INCORRECT,HIGH,Suspicious: ends with halant
+कांस्सिओस्,INCORRECT,HIGH,Suspicious: ends with halant
+नाइन्थ़्,INCORRECT,HIGH,Suspicious: ends with halant
+एट्थ़्,INCORRECT,HIGH,Suspicious: ends with halant
+लैंग्वेजस्,INCORRECT,HIGH,Suspicious: ends with halant
+चीजाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+यह्,INCORRECT,HIGH,Suspicious: ends with halant
+समयोजित्,INCORRECT,HIGH,Suspicious: ends with halant
+एड्जस्टमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+पंचुवल्,INCORRECT,HIGH,Suspicious: ends with halant
+मध्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रसन्,INCORRECT,HIGH,Suspicious: ends with halant
+इंस्पायर्,INCORRECT,HIGH,Suspicious: ends with halant
+डिसकस्,INCORRECT,HIGH,Suspicious: ends with halant
+कालिंग्,INCORRECT,HIGH,Suspicious: ends with halant
+फ़ाइव़्,INCORRECT,HIGH,Suspicious: ends with halant
+अंह्,INCORRECT,HIGH,Suspicious: ends with halant
+बैह्,INCORRECT,HIGH,Suspicious: ends with halant
+बेेंक,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+होंगेा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मैा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ऐऐऐ,INCORRECT,HIGH,Invalid: triple character repetition
+एटलीस्,INCORRECT,HIGH,Suspicious: ends with halant
+उसम्,INCORRECT,HIGH,Suspicious: ends with halant
+टेलीफिल्,INCORRECT,HIGH,Suspicious: ends with halant
+अच्छेसेव्,INCORRECT,HIGH,Suspicious: ends with halant
+लद्,INCORRECT,HIGH,Suspicious: ends with halant
+इसमेें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बोझ्,INCORRECT,HIGH,Suspicious: ends with halant
+पैश्न्,INCORRECT,HIGH,Suspicious: ends with halant
+बन्द्,INCORRECT,HIGH,Suspicious: ends with halant
+एडवांस्,INCORRECT,HIGH,Suspicious: ends with halant
+डेज्,INCORRECT,HIGH,Suspicious: ends with halant
+ववव,INCORRECT,HIGH,Invalid: triple character repetition
+पूूजा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अअअपूछते,INCORRECT,HIGH,Invalid: triple character repetition
+होत्,INCORRECT,HIGH,Suspicious: ends with halant
+ख़ाद्,INCORRECT,HIGH,Suspicious: ends with halant
+वैकेन्,INCORRECT,HIGH,Suspicious: ends with halant
+वॉर्ड्,INCORRECT,HIGH,Suspicious: ends with halant
+कटप्,INCORRECT,HIGH,Suspicious: ends with halant
+डैड्,INCORRECT,HIGH,Suspicious: ends with halant
+शेट्,INCORRECT,HIGH,Suspicious: ends with halant
+बाेलाे।,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हुन्ननन,INCORRECT,HIGH,Invalid: triple character repetition
+सेलेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+छुट्टीयाें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इस्क्,INCORRECT,HIGH,Suspicious: ends with halant
+हूम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+हुँम्,INCORRECT,HIGH,Suspicious: ends with halant
+रीडस्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रतिष्,INCORRECT,HIGH,Suspicious: ends with halant
+अध्यात्,INCORRECT,HIGH,Suspicious: ends with halant
+कैरेक्टर्,INCORRECT,HIGH,Suspicious: ends with halant
+फिफ्,INCORRECT,HIGH,Suspicious: ends with halant
+सीनियर्,INCORRECT,HIGH,Suspicious: ends with halant
+जूनियर्,INCORRECT,HIGH,Suspicious: ends with halant
+इस्टाफ्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रैक्टिस्,INCORRECT,HIGH,Suspicious: ends with halant
+देवेलपमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+डिस्ट्रिक्,INCORRECT,HIGH,Suspicious: ends with halant
+प्ल्,INCORRECT,HIGH,Suspicious: ends with halant
+मतल्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रोजेक्टसन्,INCORRECT,HIGH,Suspicious: ends with halant
+फ्रेश्,INCORRECT,HIGH,Suspicious: ends with halant
+लक्ष्,INCORRECT,HIGH,Suspicious: ends with halant
+उन्होेंने,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अन्द्,INCORRECT,HIGH,Suspicious: ends with halant
+एकसाम्,INCORRECT,HIGH,Suspicious: ends with halant
+टालक्,INCORRECT,HIGH,Suspicious: ends with halant
+",अअअअ",INCORRECT,HIGH,Invalid: triple character repetition
+फ्म्,INCORRECT,HIGH,Suspicious: ends with halant
+हेल्प्,INCORRECT,HIGH,Suspicious: ends with halant
+अहहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+त्योहार्,INCORRECT,HIGH,Suspicious: ends with halant
+फिजिक्,INCORRECT,HIGH,Suspicious: ends with halant
+हूम्,INCORRECT,HIGH,Suspicious: ends with halant
+इम्पोर्टेन्,INCORRECT,HIGH,Suspicious: ends with halant
+अवव्,INCORRECT,HIGH,Suspicious: ends with halant
+ममम्मी।,INCORRECT,HIGH,Invalid: triple character repetition
+वैरायटीस्,INCORRECT,HIGH,Suspicious: ends with halant
+हुँहहहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+",अअअ",INCORRECT,HIGH,Invalid: triple character repetition
+जजजै,INCORRECT,HIGH,Invalid: triple character repetition
+जीक्,INCORRECT,HIGH,Suspicious: ends with halant
+पियाेर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्रेनिंगस्,INCORRECT,HIGH,Suspicious: ends with halant
+कैम्,INCORRECT,HIGH,Suspicious: ends with halant
+कबार्,INCORRECT,HIGH,Suspicious: ends with halant
+ससस,INCORRECT,HIGH,Invalid: triple character repetition
+टाइप्,INCORRECT,HIGH,Suspicious: ends with halant
+स्लेेबस,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ऐअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+छबिस्,INCORRECT,HIGH,Suspicious: ends with halant
+पार्टिंज्,INCORRECT,HIGH,Suspicious: ends with halant
+हुहुहुहुहुहहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+देखिेये,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+"हहहह,",INCORRECT,HIGH,Invalid: triple character repetition
+पिंटरेस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+छेेतर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+चुनूौतियां,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ऊर्,INCORRECT,HIGH,Suspicious: ends with halant
+केलशियम्,INCORRECT,HIGH,Suspicious: ends with halant
+ह्ल्,INCORRECT,HIGH,Suspicious: ends with halant
+अह्ह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+पोहुछ्,INCORRECT,HIGH,Suspicious: ends with halant
+टेक्स्,INCORRECT,HIGH,Suspicious: ends with halant
+जेन्,INCORRECT,HIGH,Suspicious: ends with halant
+पैरंट्,INCORRECT,HIGH,Suspicious: ends with halant
+सासससुर,INCORRECT,HIGH,Invalid: triple character repetition
+बरदास्,INCORRECT,HIGH,Suspicious: ends with halant
+खरीद्,INCORRECT,HIGH,Suspicious: ends with halant
+एकार्डिग्,INCORRECT,HIGH,Suspicious: ends with halant
+स्टैंडर्,INCORRECT,HIGH,Suspicious: ends with halant
+सरप्राइज़्,INCORRECT,HIGH,Suspicious: ends with halant
+प्याेरता,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इअम्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहत,INCORRECT,HIGH,Invalid: triple character repetition
+हूंहहह,INCORRECT,HIGH,Invalid: triple character repetition
+प्रेफर्,INCORRECT,HIGH,Suspicious: ends with halant
+एएएलएलिफेंट,INCORRECT,HIGH,Invalid: triple character repetition
+ममममम,INCORRECT,HIGH,Invalid: triple character repetition
+संस्क्,INCORRECT,HIGH,Suspicious: ends with halant
+स्टेशनस्,INCORRECT,HIGH,Suspicious: ends with halant
+दूसराें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+भोलेन्,INCORRECT,HIGH,Suspicious: ends with halant
+उउउमम,INCORRECT,HIGH,Invalid: triple character repetition
+उउउउम,INCORRECT,HIGH,Invalid: triple character repetition
+बॉक्,INCORRECT,HIGH,Suspicious: ends with halant
+हह्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+"२०००,१०००",INCORRECT,HIGH,Invalid: triple character repetition
+समय्,INCORRECT,HIGH,Suspicious: ends with halant
+ग्राेक,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हबिचुअल्,INCORRECT,HIGH,Suspicious: ends with halant
+ऊॅंट,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+लगाव्,INCORRECT,HIGH,Suspicious: ends with halant
+हनन्,INCORRECT,HIGH,Suspicious: ends with halant
+पह्,INCORRECT,HIGH,Suspicious: ends with halant
+हान्,INCORRECT,HIGH,Suspicious: ends with halant
+केम्,INCORRECT,HIGH,Suspicious: ends with halant
+हमममहह,INCORRECT,HIGH,Invalid: triple character repetition
+डारेयक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+आॉटो,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+दिन्,INCORRECT,HIGH,Suspicious: ends with halant
+काॅॅलेेज,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रिप्,INCORRECT,HIGH,Suspicious: ends with halant
+टोप्,INCORRECT,HIGH,Suspicious: ends with halant
+अहहहहहहं,INCORRECT,HIGH,Invalid: triple character repetition
+जीे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+उमममम।,INCORRECT,HIGH,Invalid: triple character repetition
+प्राइज्,INCORRECT,HIGH,Suspicious: ends with halant
+फ़िज़िक्,INCORRECT,HIGH,Suspicious: ends with halant
+माेबाइल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मेैं,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हेबिटस्,INCORRECT,HIGH,Suspicious: ends with halant
+चौइस्,INCORRECT,HIGH,Suspicious: ends with halant
+पूर्वग्रह्,INCORRECT,HIGH,Suspicious: ends with halant
+मम्मम्,INCORRECT,HIGH,Suspicious: ends with halant
+कुभ्भ्,INCORRECT,HIGH,Suspicious: ends with halant
+कमप्लीट्,INCORRECT,HIGH,Suspicious: ends with halant
+इनसिक्योर्,INCORRECT,HIGH,Suspicious: ends with halant
+करीबन्,INCORRECT,HIGH,Suspicious: ends with halant
+देख्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐक्चुअल्,INCORRECT,HIGH,Suspicious: ends with halant
+चेस्,INCORRECT,HIGH,Suspicious: ends with halant
+बल्,INCORRECT,HIGH,Suspicious: ends with halant
+भीइइइइ,INCORRECT,HIGH,Invalid: triple character repetition
+बागवान्,INCORRECT,HIGH,Suspicious: ends with halant
+वहान्,INCORRECT,HIGH,Suspicious: ends with halant
+शक्,INCORRECT,HIGH,Suspicious: ends with halant
+कपूर्,INCORRECT,HIGH,Suspicious: ends with halant
+ऊॅचाईये,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+रख्,INCORRECT,HIGH,Suspicious: ends with halant
+अगर्,INCORRECT,HIGH,Suspicious: ends with halant
+कुलीग्,INCORRECT,HIGH,Suspicious: ends with halant
+जर्,INCORRECT,HIGH,Suspicious: ends with halant
+खेेल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इंप्,INCORRECT,HIGH,Suspicious: ends with halant
+मैैथमेटिक,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+फोटोस्,INCORRECT,HIGH,Suspicious: ends with halant
+मेथोलॉजिकल्,INCORRECT,HIGH,Suspicious: ends with halant
+उनिस्,INCORRECT,HIGH,Suspicious: ends with halant
+ड्रिप्,INCORRECT,HIGH,Suspicious: ends with halant
+मैैनें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+म्आ्,INCORRECT,HIGH,Suspicious: ends with halant
+फॉक्,INCORRECT,HIGH,Suspicious: ends with halant
+मेाग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+काआ्,INCORRECT,HIGH,Suspicious: ends with halant
+आग्,INCORRECT,HIGH,Suspicious: ends with halant
+ऑलमोस्,INCORRECT,HIGH,Suspicious: ends with halant
+फ़िज़िकल्,INCORRECT,HIGH,Suspicious: ends with halant
+गुड़ियाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पिररर,INCORRECT,HIGH,Invalid: triple character repetition
+टवेलव्थ्,INCORRECT,HIGH,Suspicious: ends with halant
+"जी,्",INCORRECT,HIGH,Suspicious: ends with halant
+द्वेत्,INCORRECT,HIGH,Suspicious: ends with halant
+अनुुप,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मैनिफ़ेस्टेश्न्,INCORRECT,HIGH,Suspicious: ends with halant
+दिनचर्याें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+डिटेलस्,INCORRECT,HIGH,Suspicious: ends with halant
+थेंक्,INCORRECT,HIGH,Suspicious: ends with halant
+ब्रदरस्,INCORRECT,HIGH,Suspicious: ends with halant
+एग्रीकल्,INCORRECT,HIGH,Suspicious: ends with halant
+जीईईईई,INCORRECT,HIGH,Invalid: triple character repetition
+हाआ्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रोउद्,INCORRECT,HIGH,Suspicious: ends with halant
+चांसेेस,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ढोग्,INCORRECT,HIGH,Suspicious: ends with halant
+अल्,INCORRECT,HIGH,Suspicious: ends with halant
+नही्,INCORRECT,HIGH,Suspicious: ends with halant
+इंटरव्यूएरस्,INCORRECT,HIGH,Suspicious: ends with halant
+क्येांकि,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हूम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहहहहह।,INCORRECT,HIGH,Invalid: triple character repetition
+पीसीएम्,INCORRECT,HIGH,Suspicious: ends with halant
+राह्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐट्,INCORRECT,HIGH,Suspicious: ends with halant
+"की,तुम्",INCORRECT,HIGH,Suspicious: ends with halant
+नेचर्,INCORRECT,HIGH,Suspicious: ends with halant
+दर्,INCORRECT,HIGH,Suspicious: ends with halant
+लड़कत्,INCORRECT,HIGH,Suspicious: ends with halant
+बबब,INCORRECT,HIGH,Invalid: triple character repetition
+एक्सपीरीयन्स्,INCORRECT,HIGH,Suspicious: ends with halant
+कुतुर्,INCORRECT,HIGH,Suspicious: ends with halant
+बिलक्,INCORRECT,HIGH,Suspicious: ends with halant
+गिफ्,INCORRECT,HIGH,Suspicious: ends with halant
+ब्रेकाअप्,INCORRECT,HIGH,Suspicious: ends with halant
+समाेदित,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+नृत्,INCORRECT,HIGH,Suspicious: ends with halant
+अॅड,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+थी्,INCORRECT,HIGH,Suspicious: ends with halant
+फ्रेड्,INCORRECT,HIGH,Suspicious: ends with halant
+हैंडीक्राफ्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्यच्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐसाैऐसा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हम्म्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+कौंसियस्,INCORRECT,HIGH,Suspicious: ends with halant
+विशाखापत्नम्,INCORRECT,HIGH,Suspicious: ends with halant
+ब्अब्,INCORRECT,HIGH,Suspicious: ends with halant
+सर्कल्,INCORRECT,HIGH,Suspicious: ends with halant
+इडियेटस्,INCORRECT,HIGH,Suspicious: ends with halant
+राततत,INCORRECT,HIGH,Invalid: triple character repetition
+वोदाा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+टाेटल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अबबब.एक,INCORRECT,HIGH,Invalid: triple character repetition
+हाेगए,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आौर,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+सांसससुर,INCORRECT,HIGH,Invalid: triple character repetition
+बर्दाश्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रीमेच्,INCORRECT,HIGH,Suspicious: ends with halant
+मिट्,INCORRECT,HIGH,Suspicious: ends with halant
+मेट्,INCORRECT,HIGH,Suspicious: ends with halant
+इंवेस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+बीचेस्,INCORRECT,HIGH,Suspicious: ends with halant
+रररर,INCORRECT,HIGH,Invalid: triple character repetition
+ऐसेैसे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वगेेरह,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सुस्तान्,INCORRECT,HIGH,Suspicious: ends with halant
+एंटिर्,INCORRECT,HIGH,Suspicious: ends with halant
+ईंह्,INCORRECT,HIGH,Suspicious: ends with halant
+अहह्,INCORRECT,HIGH,Suspicious: ends with halant
+रएह्,INCORRECT,HIGH,Suspicious: ends with halant
+नहीे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आद्,INCORRECT,HIGH,Suspicious: ends with halant
+मेै,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+गुड्,INCORRECT,HIGH,Suspicious: ends with halant
+व्हेकेशन्स्,INCORRECT,HIGH,Suspicious: ends with halant
+टअअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+सकताे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+क्यूसन्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐहट्,INCORRECT,HIGH,Suspicious: ends with halant
+चेंज्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्सपीरियंसड्,INCORRECT,HIGH,Suspicious: ends with halant
+रिफ्,INCORRECT,HIGH,Suspicious: ends with halant
+हूंउउउउ,INCORRECT,HIGH,Invalid: triple character repetition
+फैमिलीस्,INCORRECT,HIGH,Suspicious: ends with halant
+वेेजुुवान,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सांसारिक्,INCORRECT,HIGH,Suspicious: ends with halant
+कंपीटीटर्,INCORRECT,HIGH,Suspicious: ends with halant
+जेेसे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रेलटिव़्,INCORRECT,HIGH,Suspicious: ends with halant
+बूमर्,INCORRECT,HIGH,Suspicious: ends with halant
+शॉर्टकट्,INCORRECT,HIGH,Suspicious: ends with halant
+ट्रैक्,INCORRECT,HIGH,Suspicious: ends with halant
+गाँव्,INCORRECT,HIGH,Suspicious: ends with halant
+गवर्,INCORRECT,HIGH,Suspicious: ends with halant
+"हूँ,हम्म्,हम्म्",INCORRECT,HIGH,Suspicious: ends with halant
+जादातर्,INCORRECT,HIGH,Suspicious: ends with halant
+कीजिय्,INCORRECT,HIGH,Suspicious: ends with halant
+फोन्,INCORRECT,HIGH,Suspicious: ends with halant
+अस्तितव्,INCORRECT,HIGH,Suspicious: ends with halant
+पार्क्,INCORRECT,HIGH,Suspicious: ends with halant
+बुक्,INCORRECT,HIGH,Suspicious: ends with halant
+स्पेक्टेक्लस्,INCORRECT,HIGH,Suspicious: ends with halant
+पिक्,INCORRECT,HIGH,Suspicious: ends with halant
+उममम।,INCORRECT,HIGH,Invalid: triple character repetition
+ऊंंऊऊऊऊह,INCORRECT,HIGH,Invalid: triple character repetition
+फ़्,INCORRECT,HIGH,Suspicious: ends with halant
+अच्छाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अच्छेो,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+जेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रोफेसनल्,INCORRECT,HIGH,Suspicious: ends with halant
+बैटस्,INCORRECT,HIGH,Suspicious: ends with halant
+गौहत्,INCORRECT,HIGH,Suspicious: ends with halant
+म्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+पोडाम्,INCORRECT,HIGH,Suspicious: ends with halant
+वायश्य्,INCORRECT,HIGH,Suspicious: ends with halant
+किइइइइ,INCORRECT,HIGH,Invalid: triple character repetition
+तोा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ईईईई,INCORRECT,HIGH,Invalid: triple character repetition
+गार्,INCORRECT,HIGH,Suspicious: ends with halant
+"हहहहह,",INCORRECT,HIGH,Invalid: triple character repetition
+तारक्,INCORRECT,HIGH,Suspicious: ends with halant
+क्याें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+प्लैन्,INCORRECT,HIGH,Suspicious: ends with halant
+एग्,INCORRECT,HIGH,Suspicious: ends with halant
+ठीी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+करभास्,INCORRECT,HIGH,Suspicious: ends with halant
+फंडामेंटलस्,INCORRECT,HIGH,Suspicious: ends with halant
+ऑनर्,INCORRECT,HIGH,Suspicious: ends with halant
+जोश्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रॉब्लमस्,INCORRECT,HIGH,Suspicious: ends with halant
+रीजनस्,INCORRECT,HIGH,Suspicious: ends with halant
+पपपा,INCORRECT,HIGH,Invalid: triple character repetition
+एक्सक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्सपिरियंस्,INCORRECT,HIGH,Suspicious: ends with halant
+एग्जाम्,INCORRECT,HIGH,Suspicious: ends with halant
+पूर्वज्,INCORRECT,HIGH,Suspicious: ends with halant
+मोर्टेम्,INCORRECT,HIGH,Suspicious: ends with halant
+टीमस्,INCORRECT,HIGH,Suspicious: ends with halant
+पेरेंट्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+मीनस्,INCORRECT,HIGH,Suspicious: ends with halant
+रुलस्,INCORRECT,HIGH,Suspicious: ends with halant
+पेमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+ओनर्,INCORRECT,HIGH,Suspicious: ends with halant
+आंआआआ,INCORRECT,HIGH,Invalid: triple character repetition
+सडेनली्,INCORRECT,HIGH,Suspicious: ends with halant
+सूरकच्छात्,INCORRECT,HIGH,Suspicious: ends with halant
+इंसांन्,INCORRECT,HIGH,Suspicious: ends with halant
+बेकार्,INCORRECT,HIGH,Suspicious: ends with halant
+रील्स्,INCORRECT,HIGH,Suspicious: ends with halant
+वूम्,INCORRECT,HIGH,Suspicious: ends with halant
+टूलिट्,INCORRECT,HIGH,Suspicious: ends with halant
+ड्रेशप्,INCORRECT,HIGH,Suspicious: ends with halant
+पियोर्,INCORRECT,HIGH,Suspicious: ends with halant
+नेक्स्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+नेेशहाल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सुदुर्,INCORRECT,HIGH,Suspicious: ends with halant
+रिमिक्,INCORRECT,HIGH,Suspicious: ends with halant
+"क्योंकि,.इइइइइ.",INCORRECT,HIGH,Invalid: triple character repetition
+पस्न्,INCORRECT,HIGH,Suspicious: ends with halant
+जाेब,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्वेल्व़्,INCORRECT,HIGH,Suspicious: ends with halant
+बगैरह्,INCORRECT,HIGH,Suspicious: ends with halant
+भोजपुरी।मान्,INCORRECT,HIGH,Suspicious: ends with halant
+रहाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+जिन्होेंने,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बहोह्,INCORRECT,HIGH,Suspicious: ends with halant
+हुुआ,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+महाराष्टीरियन्,INCORRECT,HIGH,Suspicious: ends with halant
+भव्,INCORRECT,HIGH,Suspicious: ends with halant
+तरफ्,INCORRECT,HIGH,Suspicious: ends with halant
+फेेट,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मप्,INCORRECT,HIGH,Suspicious: ends with halant
+लावारीश्,INCORRECT,HIGH,Suspicious: ends with halant
+सान्त्,INCORRECT,HIGH,Suspicious: ends with halant
+अक्सर्,INCORRECT,HIGH,Suspicious: ends with halant
+फैसन्,INCORRECT,HIGH,Suspicious: ends with halant
+उड़ातेी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ड्रीम्,INCORRECT,HIGH,Suspicious: ends with halant
+पड़ेगाा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+स्टोल्,INCORRECT,HIGH,Suspicious: ends with halant
+अविस्,INCORRECT,HIGH,Suspicious: ends with halant
+हमन्,INCORRECT,HIGH,Suspicious: ends with halant
+रील्,INCORRECT,HIGH,Suspicious: ends with halant
+आधिकतर्,INCORRECT,HIGH,Suspicious: ends with halant
+कोंशियस्,INCORRECT,HIGH,Suspicious: ends with halant
+छह्,INCORRECT,HIGH,Suspicious: ends with halant
+देेखा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+चचच,INCORRECT,HIGH,Invalid: triple character repetition
+येे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हाऊर्,INCORRECT,HIGH,Suspicious: ends with halant
+वाेब,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हाेगी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+निकल्,INCORRECT,HIGH,Suspicious: ends with halant
+तकलीफ्,INCORRECT,HIGH,Suspicious: ends with halant
+पीठ्,INCORRECT,HIGH,Suspicious: ends with halant
+जीप्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहए,INCORRECT,HIGH,Invalid: triple character repetition
+ऑल्मोस्,INCORRECT,HIGH,Suspicious: ends with halant
+हूँओओओ,INCORRECT,HIGH,Invalid: triple character repetition
+जी्,INCORRECT,HIGH,Suspicious: ends with halant
+मॉडलस्,INCORRECT,HIGH,Suspicious: ends with halant
+कोैन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ओत्,INCORRECT,HIGH,Suspicious: ends with halant
+बससस,INCORRECT,HIGH,Invalid: triple character repetition
+इट्,INCORRECT,HIGH,Suspicious: ends with halant
+शहर्,INCORRECT,HIGH,Suspicious: ends with halant
+धीर्य्,INCORRECT,HIGH,Suspicious: ends with halant
+कॉलस्,INCORRECT,HIGH,Suspicious: ends with halant
+चैट्स्,INCORRECT,HIGH,Suspicious: ends with halant
+जैेसे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वउत्,INCORRECT,HIGH,Suspicious: ends with halant
+सद्दन्,INCORRECT,HIGH,Suspicious: ends with halant
+संवदित्,INCORRECT,HIGH,Suspicious: ends with halant
+मसल्,INCORRECT,HIGH,Suspicious: ends with halant
+क्याेंकि,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कनेक्,INCORRECT,HIGH,Suspicious: ends with halant
+साेनपापड़ी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ठस्,INCORRECT,HIGH,Suspicious: ends with halant
+वर्,INCORRECT,HIGH,Suspicious: ends with halant
+"मम्ममम,",INCORRECT,HIGH,Invalid: triple character repetition
+त्यौहार्,INCORRECT,HIGH,Suspicious: ends with halant
+आआआआ।,INCORRECT,HIGH,Invalid: triple character repetition
+लाइट्,INCORRECT,HIGH,Suspicious: ends with halant
+हिन्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+अलर्,INCORRECT,HIGH,Suspicious: ends with halant
+क्लोिमीटर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ब्राउनिस्,INCORRECT,HIGH,Suspicious: ends with halant
+सौम्,INCORRECT,HIGH,Suspicious: ends with halant
+इन्ट्रेस्,INCORRECT,HIGH,Suspicious: ends with halant
+हैैं,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हूँममम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+वीक्,INCORRECT,HIGH,Suspicious: ends with halant
+पाचस्,INCORRECT,HIGH,Suspicious: ends with halant
+लेग्वेज्,INCORRECT,HIGH,Suspicious: ends with halant
+टेक्सीस्,INCORRECT,HIGH,Suspicious: ends with halant
+अगेंस्,INCORRECT,HIGH,Suspicious: ends with halant
+इलेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+तोेौर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अंह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+भी्,INCORRECT,HIGH,Suspicious: ends with halant
+हुउउउउ,INCORRECT,HIGH,Invalid: triple character repetition
+ए्,INCORRECT,HIGH,Suspicious: ends with halant
+फ्रेण्ड्,INCORRECT,HIGH,Suspicious: ends with halant
+रेस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+ब्याह्,INCORRECT,HIGH,Suspicious: ends with halant
+सनसेट्,INCORRECT,HIGH,Suspicious: ends with halant
+लछ्,INCORRECT,HIGH,Suspicious: ends with halant
+बाेलता,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+टुूयुब,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एंजीनियरस्,INCORRECT,HIGH,Suspicious: ends with halant
+पार्टिसिपेट्,INCORRECT,HIGH,Suspicious: ends with halant
+स्वास्,INCORRECT,HIGH,Suspicious: ends with halant
+मल्,INCORRECT,HIGH,Suspicious: ends with halant
+पन्द्रह्,INCORRECT,HIGH,Suspicious: ends with halant
+स्पेंड्,INCORRECT,HIGH,Suspicious: ends with halant
+गोल्,INCORRECT,HIGH,Suspicious: ends with halant
+नेबर्,INCORRECT,HIGH,Suspicious: ends with halant
+युुवा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+परंम्परिक्,INCORRECT,HIGH,Suspicious: ends with halant
+हंह्म्म्,INCORRECT,HIGH,Suspicious: ends with halant
+दीक्,INCORRECT,HIGH,Suspicious: ends with halant
+लैंग्,INCORRECT,HIGH,Suspicious: ends with halant
+पाठ्,INCORRECT,HIGH,Suspicious: ends with halant
+थेैंक्यु,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्रिट्,INCORRECT,HIGH,Suspicious: ends with halant
+प्राोरिटी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अस्त्,INCORRECT,HIGH,Suspicious: ends with halant
+कोर्,INCORRECT,HIGH,Suspicious: ends with halant
+बद्,INCORRECT,HIGH,Suspicious: ends with halant
+गुुडडे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+स्वस्थ्,INCORRECT,HIGH,Suspicious: ends with halant
+ओर्,INCORRECT,HIGH,Suspicious: ends with halant
+ब्लॉकस्,INCORRECT,HIGH,Suspicious: ends with halant
+एकाेडिंग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कार्ड्,INCORRECT,HIGH,Suspicious: ends with halant
+कब्,INCORRECT,HIGH,Suspicious: ends with halant
+यीईईईई,INCORRECT,HIGH,Invalid: triple character repetition
+भाेजन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पैैर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बोलएि,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+शिक्,INCORRECT,HIGH,Suspicious: ends with halant
+अरेस्,INCORRECT,HIGH,Suspicious: ends with halant
+खुुजाई,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+महकेंगेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सीमित्,INCORRECT,HIGH,Suspicious: ends with halant
+औेर,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+बल्ब्,INCORRECT,HIGH,Suspicious: ends with halant
+"थी,हहहह",INCORRECT,HIGH,Invalid: triple character repetition
+ब्रदर्,INCORRECT,HIGH,Suspicious: ends with halant
+",हमममहह",INCORRECT,HIGH,Invalid: triple character repetition
+हाहहह,INCORRECT,HIGH,Invalid: triple character repetition
+कैंपस्,INCORRECT,HIGH,Suspicious: ends with halant
+तक्रिबंन्,INCORRECT,HIGH,Suspicious: ends with halant
+कभार्,INCORRECT,HIGH,Suspicious: ends with halant
+कॉर्रेक्,INCORRECT,HIGH,Suspicious: ends with halant
+",उम्",INCORRECT,HIGH,Suspicious: ends with halant
+धम्,INCORRECT,HIGH,Suspicious: ends with halant
+समटाइम्,INCORRECT,HIGH,Suspicious: ends with halant
+भक्,INCORRECT,HIGH,Suspicious: ends with halant
+स्टाफ्,INCORRECT,HIGH,Suspicious: ends with halant
+वॉर्स्,INCORRECT,HIGH,Suspicious: ends with halant
+डिवोस्,INCORRECT,HIGH,Suspicious: ends with halant
+मुंबई्,INCORRECT,HIGH,Suspicious: ends with halant
+हट्,INCORRECT,HIGH,Suspicious: ends with halant
+रामचंद्,INCORRECT,HIGH,Suspicious: ends with halant
+पे्,INCORRECT,HIGH,Suspicious: ends with halant
+बैैल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+शशशह,INCORRECT,HIGH,Invalid: triple character repetition
+त्त्,INCORRECT,HIGH,Suspicious: ends with halant
+साठ्,INCORRECT,HIGH,Suspicious: ends with halant
+रबर्,INCORRECT,HIGH,Suspicious: ends with halant
+अनुशासन्,INCORRECT,HIGH,Suspicious: ends with halant
+मैैम.आप,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+जम्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहह!,INCORRECT,HIGH,Invalid: triple character repetition
+समाधान्,INCORRECT,HIGH,Suspicious: ends with halant
+बहोधत्,INCORRECT,HIGH,Suspicious: ends with halant
+इइइसमें,INCORRECT,HIGH,Invalid: triple character repetition
+टवैैलथ,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्टवेल्,INCORRECT,HIGH,Suspicious: ends with halant
+इन्व़ाइरन्मन्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+आएंग्,INCORRECT,HIGH,Suspicious: ends with halant
+लाश्,INCORRECT,HIGH,Suspicious: ends with halant
+मुच्,INCORRECT,HIGH,Suspicious: ends with halant
+उससे...,INCORRECT,HIGH,Invalid: triple character repetition
+जाएगा...,INCORRECT,HIGH,Invalid: triple character repetition
+ज़्,INCORRECT,HIGH,Suspicious: ends with halant
+हालााँकि,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एकदम...,INCORRECT,HIGH,Invalid: triple character repetition
+गुड़गाँव्,INCORRECT,HIGH,Suspicious: ends with halant
+माेमडन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कस्,INCORRECT,HIGH,Suspicious: ends with halant
+क्लसससेस,INCORRECT,HIGH,Invalid: triple character repetition
+एचार्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म...आज,INCORRECT,HIGH,Invalid: triple character repetition
+कार्टून्,INCORRECT,HIGH,Suspicious: ends with halant
+आदतें....भई,INCORRECT,HIGH,Invalid: triple character repetition
+अपना...,INCORRECT,HIGH,Invalid: triple character repetition
+गुलाब्,INCORRECT,HIGH,Suspicious: ends with halant
+झेी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बजह्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्मस्,INCORRECT,HIGH,Suspicious: ends with halant
+और...अहह...प्राउड,INCORRECT,HIGH,Invalid: triple character repetition
+एब्यूसिव्,INCORRECT,HIGH,Suspicious: ends with halant
+जानबूझ्,INCORRECT,HIGH,Suspicious: ends with halant
+लोस्,INCORRECT,HIGH,Suspicious: ends with halant
+मेरा...,INCORRECT,HIGH,Invalid: triple character repetition
+ओहो...दुसरी,INCORRECT,HIGH,Invalid: triple character repetition
+एंटीक्,INCORRECT,HIGH,Suspicious: ends with halant
+कन्,INCORRECT,HIGH,Suspicious: ends with halant
+इंटिक्,INCORRECT,HIGH,Suspicious: ends with halant
+जनरलीअब्,INCORRECT,HIGH,Suspicious: ends with halant
+यूज्,INCORRECT,HIGH,Suspicious: ends with halant
+जीईई...,INCORRECT,HIGH,Invalid: triple character repetition
+शुभ्,INCORRECT,HIGH,Suspicious: ends with halant
+जी....हाँ,INCORRECT,HIGH,Invalid: triple character repetition
+हह....हम्म,INCORRECT,HIGH,Invalid: triple character repetition
+हुो,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+फ़ोड़ा...,INCORRECT,HIGH,Invalid: triple character repetition
+असर्,INCORRECT,HIGH,Suspicious: ends with halant
+नाश्,INCORRECT,HIGH,Suspicious: ends with halant
+अल्फाबेट्,INCORRECT,HIGH,Suspicious: ends with halant
+अहह....रख,INCORRECT,HIGH,Invalid: triple character repetition
+बिना...,INCORRECT,HIGH,Invalid: triple character repetition
+वोस्,INCORRECT,HIGH,Suspicious: ends with halant
+ओके.....ओके,INCORRECT,HIGH,Invalid: triple character repetition
+राेडो,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हांजी.....हांजी।,INCORRECT,HIGH,Invalid: triple character repetition
+गीता...,INCORRECT,HIGH,Invalid: triple character repetition
+आजाएगा।....,INCORRECT,HIGH,Invalid: triple character repetition
+ह्म्म....ह्म्म,INCORRECT,HIGH,Invalid: triple character repetition
+पानी...,INCORRECT,HIGH,Invalid: triple character repetition
+गया...जी,INCORRECT,HIGH,Invalid: triple character repetition
+पतासे...,INCORRECT,HIGH,Invalid: triple character repetition
+मेलेों,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वर्कस्,INCORRECT,HIGH,Suspicious: ends with halant
+मीडिया...,INCORRECT,HIGH,Invalid: triple character repetition
+इसकम्,INCORRECT,HIGH,Suspicious: ends with halant
+राय्,INCORRECT,HIGH,Suspicious: ends with halant
+शिक्षक...,INCORRECT,HIGH,Invalid: triple character repetition
+हाँ...बात,INCORRECT,HIGH,Invalid: triple character repetition
+उसके...,INCORRECT,HIGH,Invalid: triple character repetition
+हेलो....हां,INCORRECT,HIGH,Invalid: triple character repetition
+बेटा...।,INCORRECT,HIGH,Invalid: triple character repetition
+दोनों...।,INCORRECT,HIGH,Invalid: triple character repetition
+हाल्,INCORRECT,HIGH,Suspicious: ends with halant
+इसलिए....बोलते,INCORRECT,HIGH,Invalid: triple character repetition
+समान्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्सपोर्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्सपीरियनस्,INCORRECT,HIGH,Suspicious: ends with halant
+कितनी...,INCORRECT,HIGH,Invalid: triple character repetition
+कैज़ुअल्,INCORRECT,HIGH,Suspicious: ends with halant
+अऽऽऽ,INCORRECT,HIGH,Invalid: triple character repetition
+प्राेड,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बुजूर...,INCORRECT,HIGH,Invalid: triple character repetition
+छुुल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पिठ्,INCORRECT,HIGH,Suspicious: ends with halant
+सौमनात्,INCORRECT,HIGH,Suspicious: ends with halant
+हुंम...,INCORRECT,HIGH,Invalid: triple character repetition
+हीं...मतलब,INCORRECT,HIGH,Invalid: triple character repetition
+ऐं...मेरे,INCORRECT,HIGH,Invalid: triple character repetition
+हाँ...जैसे,INCORRECT,HIGH,Invalid: triple character repetition
+मैै,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+चंचन्,INCORRECT,HIGH,Suspicious: ends with halant
+लाइकस्,INCORRECT,HIGH,Suspicious: ends with halant
+आॉफ,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+जानाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ोथेरविसे,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+क्योंकि....अहह,INCORRECT,HIGH,Invalid: triple character repetition
+मेेकअप,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+क्यारम्,INCORRECT,HIGH,Suspicious: ends with halant
+अेसर,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+पुूरी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+गयाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+नौकरी...,INCORRECT,HIGH,Invalid: triple character repetition
+एससस्टी,INCORRECT,HIGH,Invalid: triple character repetition
+हम्म....दोस्त,INCORRECT,HIGH,Invalid: triple character repetition
+कितना...,INCORRECT,HIGH,Invalid: triple character repetition
+कॉन्फिडेंटस्,INCORRECT,HIGH,Suspicious: ends with halant
+खोिए,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मिलाग...,INCORRECT,HIGH,Invalid: triple character repetition
+प्रोडक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+ह्ह्ह्ह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+कभी...हाँ,INCORRECT,HIGH,Invalid: triple character repetition
+होेतिए,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पूरा...,INCORRECT,HIGH,Invalid: triple character repetition
+डिजाइंस्,INCORRECT,HIGH,Suspicious: ends with halant
+ना...हाँ...तो,INCORRECT,HIGH,Invalid: triple character repetition
+आप...अहह...ऐसा,INCORRECT,HIGH,Invalid: triple character repetition
+तृप्,INCORRECT,HIGH,Suspicious: ends with halant
+हाँ...वही,INCORRECT,HIGH,Invalid: triple character repetition
+हां.....बोलिए,INCORRECT,HIGH,Invalid: triple character repetition
+है...नहीं,INCORRECT,HIGH,Invalid: triple character repetition
+अच्छे...उसके...,INCORRECT,HIGH,Invalid: triple character repetition
+तेहवार्,INCORRECT,HIGH,Suspicious: ends with halant
+टोपिक्,INCORRECT,HIGH,Suspicious: ends with halant
+सररर.,INCORRECT,HIGH,Invalid: triple character repetition
+सरररर.,INCORRECT,HIGH,Invalid: triple character repetition
+लोग...जैसे,INCORRECT,HIGH,Invalid: triple character repetition
+हाँ...और,INCORRECT,HIGH,Invalid: triple character repetition
+जल्दी...,INCORRECT,HIGH,Invalid: triple character repetition
+लाभान्,INCORRECT,HIGH,Suspicious: ends with halant
+स्नीकर्,INCORRECT,HIGH,Suspicious: ends with halant
+हां...वही,INCORRECT,HIGH,Invalid: triple character repetition
+एडवेंचर्सस्,INCORRECT,HIGH,Suspicious: ends with halant
+मेन्टेंन्,INCORRECT,HIGH,Suspicious: ends with halant
+भी....गुजिया,INCORRECT,HIGH,Invalid: triple character repetition
+हहहहे,INCORRECT,HIGH,Invalid: triple character repetition
+गोर्मेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+साथ्,INCORRECT,HIGH,Suspicious: ends with halant
+बॉम्,INCORRECT,HIGH,Suspicious: ends with halant
+ओअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+जोिंद,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पिर्,INCORRECT,HIGH,Suspicious: ends with halant
+ओओओ,INCORRECT,HIGH,Invalid: triple character repetition
+करेगा....हूहु...आह...तो,INCORRECT,HIGH,Invalid: triple character repetition
+ऐस्,INCORRECT,HIGH,Suspicious: ends with halant
+कीईईईईईई,INCORRECT,HIGH,Invalid: triple character repetition
+बेस्टफ्रेंड्,INCORRECT,HIGH,Suspicious: ends with halant
+होलिडेस्,INCORRECT,HIGH,Suspicious: ends with halant
+ट्रैकिंग्,INCORRECT,HIGH,Suspicious: ends with halant
+शेयर्,INCORRECT,HIGH,Suspicious: ends with halant
+अपनी....।,INCORRECT,HIGH,Invalid: triple character repetition
+वनलिवन्,INCORRECT,HIGH,Suspicious: ends with halant
+उनीक्,INCORRECT,HIGH,Suspicious: ends with halant
+इंग्,INCORRECT,HIGH,Suspicious: ends with halant
+ज़्यादा...,INCORRECT,HIGH,Invalid: triple character repetition
+चीज...।,INCORRECT,HIGH,Invalid: triple character repetition
+टाइग्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐसे...अ,INCORRECT,HIGH,Invalid: triple character repetition
+मोस्,INCORRECT,HIGH,Suspicious: ends with halant
+हाँजी....बिल्कुल,INCORRECT,HIGH,Invalid: triple character repetition
+मॉन्ˈटॉश़्,INCORRECT,HIGH,Suspicious: ends with halant
+स्वाद्,INCORRECT,HIGH,Suspicious: ends with halant
+इंतिजार...,INCORRECT,HIGH,Invalid: triple character repetition
+सेक़्,INCORRECT,HIGH,Suspicious: ends with halant
+टाइम...,INCORRECT,HIGH,Invalid: triple character repetition
+जेंन्स्,INCORRECT,HIGH,Suspicious: ends with halant
+याद्,INCORRECT,HIGH,Suspicious: ends with halant
+है।।।,INCORRECT,HIGH,Invalid: triple character repetition
+उनक्,INCORRECT,HIGH,Suspicious: ends with halant
+गुुर्भ,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सकतेे।,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आहहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+फिदूर्,INCORRECT,HIGH,Suspicious: ends with halant
+ंक्रेज,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+गिडेलिनेस्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्साक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+मी...हम्म,INCORRECT,HIGH,Invalid: triple character repetition
+पैतालिस्,INCORRECT,HIGH,Suspicious: ends with halant
+मजनू्,INCORRECT,HIGH,Suspicious: ends with halant
+ट्रक्,INCORRECT,HIGH,Suspicious: ends with halant
+बाहर्,INCORRECT,HIGH,Suspicious: ends with halant
+इतना...,INCORRECT,HIGH,Invalid: triple character repetition
+धन्यवाद....,INCORRECT,HIGH,Invalid: triple character repetition
+आपके...,INCORRECT,HIGH,Invalid: triple character repetition
+ग्यारह...,INCORRECT,HIGH,Invalid: triple character repetition
+आह...हुम,INCORRECT,HIGH,Invalid: triple character repetition
+आॉफिसेस,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+औ...बताइए,INCORRECT,HIGH,Invalid: triple character repetition
+ऊह...जी,INCORRECT,HIGH,Invalid: triple character repetition
+ज़गह्,INCORRECT,HIGH,Suspicious: ends with halant
+लड़कीों,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ब्लैंक.....,INCORRECT,HIGH,Invalid: triple character repetition
+वेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अव्व...,INCORRECT,HIGH,Invalid: triple character repetition
+आउटफिटस्,INCORRECT,HIGH,Suspicious: ends with halant
+पिंक्,INCORRECT,HIGH,Suspicious: ends with halant
+हाँ....।।कुछ,INCORRECT,HIGH,Invalid: triple character repetition
+रिटर्न्,INCORRECT,HIGH,Suspicious: ends with halant
+ँँजैसे,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+नाइट्,INCORRECT,HIGH,Suspicious: ends with halant
+स्वीट्,INCORRECT,HIGH,Suspicious: ends with halant
+यात्,INCORRECT,HIGH,Suspicious: ends with halant
+डिरेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+जाके...,INCORRECT,HIGH,Invalid: triple character repetition
+आपसे...,INCORRECT,HIGH,Invalid: triple character repetition
+हम्म...जी!,INCORRECT,HIGH,Invalid: triple character repetition
+अ....वेसे,INCORRECT,HIGH,Invalid: triple character repetition
+मिठाईया...,INCORRECT,HIGH,Invalid: triple character repetition
+हाँ....हाँ...ठीक,INCORRECT,HIGH,Invalid: triple character repetition
+हम्मऽऽऽ,INCORRECT,HIGH,Invalid: triple character repetition
+डेरीमिल्क्,INCORRECT,HIGH,Suspicious: ends with halant
+सुबह्,INCORRECT,HIGH,Suspicious: ends with halant
+जाएं...,INCORRECT,HIGH,Invalid: triple character repetition
+जैैसैआप,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अम्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+लेंगी...,INCORRECT,HIGH,Invalid: triple character repetition
+ी,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+कित्,INCORRECT,HIGH,Suspicious: ends with halant
+क्रेज...,INCORRECT,HIGH,Invalid: triple character repetition
+हम्मम...,INCORRECT,HIGH,Invalid: triple character repetition
+क्या...क्या...क्या,INCORRECT,HIGH,Invalid: triple character repetition
+परंपरा...,INCORRECT,HIGH,Invalid: triple character repetition
+सफर्,INCORRECT,HIGH,Suspicious: ends with halant
+दफ़्त...,INCORRECT,HIGH,Invalid: triple character repetition
+सबको...,INCORRECT,HIGH,Invalid: triple character repetition
+ओकेै,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अहह..अह...स्कूल,INCORRECT,HIGH,Invalid: triple character repetition
+ओह्ह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्शन...,INCORRECT,HIGH,Invalid: triple character repetition
+फ़ाॅर्टीन्,INCORRECT,HIGH,Suspicious: ends with halant
+मोल्,INCORRECT,HIGH,Suspicious: ends with halant
+रिजेक्,INCORRECT,HIGH,Suspicious: ends with halant
+है...हा,INCORRECT,HIGH,Invalid: triple character repetition
+प्रेवर्,INCORRECT,HIGH,Suspicious: ends with halant
+हा...वो,INCORRECT,HIGH,Invalid: triple character repetition
+अछर्,INCORRECT,HIGH,Suspicious: ends with halant
+ल...हाँ,INCORRECT,HIGH,Invalid: triple character repetition
+अचीव्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म्म....,INCORRECT,HIGH,Invalid: triple character repetition
+वो...हम्म,INCORRECT,HIGH,Invalid: triple character repetition
+वगेराह....और,INCORRECT,HIGH,Invalid: triple character repetition
+...बिलकुल,INCORRECT,HIGH,Invalid: triple character repetition
+खतम्,INCORRECT,HIGH,Suspicious: ends with halant
+स्प्रिटुअल्,INCORRECT,HIGH,Suspicious: ends with halant
+अ...हहहहह....नहीं,INCORRECT,HIGH,Invalid: triple character repetition
+विदत्,INCORRECT,HIGH,Suspicious: ends with halant
+उनसे...,INCORRECT,HIGH,Invalid: triple character repetition
+अ‌‌ह्,INCORRECT,HIGH,Suspicious: ends with halant
+अहम्मममम,INCORRECT,HIGH,Invalid: triple character repetition
+अनुभव...क्या,INCORRECT,HIGH,Invalid: triple character repetition
+स्विफ्,INCORRECT,HIGH,Suspicious: ends with halant
+पूछा...,INCORRECT,HIGH,Invalid: triple character repetition
+एक...घटना,INCORRECT,HIGH,Invalid: triple character repetition
+पस्,INCORRECT,HIGH,Suspicious: ends with halant
+सतर्,INCORRECT,HIGH,Suspicious: ends with halant
+खासकर....खाने,INCORRECT,HIGH,Invalid: triple character repetition
+अपनी...,INCORRECT,HIGH,Invalid: triple character repetition
+आउटडोरस्,INCORRECT,HIGH,Suspicious: ends with halant
+हूँ...हूँ,INCORRECT,HIGH,Invalid: triple character repetition
+हहह!,INCORRECT,HIGH,Invalid: triple character repetition
+अअअअअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+हांं...,INCORRECT,HIGH,Invalid: triple character repetition
+हां...हां....ठीक,INCORRECT,HIGH,Invalid: triple character repetition
+लड़को...,INCORRECT,HIGH,Invalid: triple character repetition
+जादा...,INCORRECT,HIGH,Invalid: triple character repetition
+दर्दनाक्,INCORRECT,HIGH,Suspicious: ends with halant
+हँ...हँ,INCORRECT,HIGH,Invalid: triple character repetition
+इफेक्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहहह।,INCORRECT,HIGH,Invalid: triple character repetition
+भरोस...,INCORRECT,HIGH,Invalid: triple character repetition
+कहीं...,INCORRECT,HIGH,Invalid: triple character repetition
+सरप्राइज्,INCORRECT,HIGH,Suspicious: ends with halant
+कूूकर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+देखो...,INCORRECT,HIGH,Invalid: triple character repetition
+मेम्बर्,INCORRECT,HIGH,Suspicious: ends with halant
+फॉरनर्,INCORRECT,HIGH,Suspicious: ends with halant
+एतिहासीक्,INCORRECT,HIGH,Suspicious: ends with halant
+नकरात्मक्,INCORRECT,HIGH,Suspicious: ends with halant
+सी...सीख,INCORRECT,HIGH,Invalid: triple character repetition
+फेेमस,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आराम...,INCORRECT,HIGH,Invalid: triple character repetition
+हेैगा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+स्पीैकिंग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्यून...यही,INCORRECT,HIGH,Invalid: triple character repetition
+नाव्,INCORRECT,HIGH,Suspicious: ends with halant
+कार्यकर्,INCORRECT,HIGH,Suspicious: ends with halant
+सबसे....बेकार,INCORRECT,HIGH,Invalid: triple character repetition
+हम्म...जी-,INCORRECT,HIGH,Invalid: triple character repetition
+हेयरस्,INCORRECT,HIGH,Suspicious: ends with halant
+अ...अपने,INCORRECT,HIGH,Invalid: triple character repetition
+बारह्,INCORRECT,HIGH,Suspicious: ends with halant
+तो्,INCORRECT,HIGH,Suspicious: ends with halant
+टिकट...,INCORRECT,HIGH,Invalid: triple character repetition
+पर्फेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+आम्म...,INCORRECT,HIGH,Invalid: triple character repetition
+हिहिहि...,INCORRECT,HIGH,Invalid: triple character repetition
+कि...जी,INCORRECT,HIGH,Invalid: triple character repetition
+वापिक्,INCORRECT,HIGH,Suspicious: ends with halant
+उकुल्,INCORRECT,HIGH,Suspicious: ends with halant
+रीपीट्,INCORRECT,HIGH,Suspicious: ends with halant
+हैेना,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मैक्,INCORRECT,HIGH,Suspicious: ends with halant
+जययययय,INCORRECT,HIGH,Invalid: triple character repetition
+हैंअअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+ढंङ्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐप्,INCORRECT,HIGH,Suspicious: ends with halant
+शुरू...,INCORRECT,HIGH,Invalid: triple character repetition
+चैप्टर्स्,INCORRECT,HIGH,Suspicious: ends with halant
+सेेलीब्रेट,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इक्‌ˈस्पिअरिअन्‍स्,INCORRECT,HIGH,Suspicious: ends with halant
+बैंक्,INCORRECT,HIGH,Suspicious: ends with halant
+हां....हम्म,INCORRECT,HIGH,Invalid: triple character repetition
+अहह....हम्म,INCORRECT,HIGH,Invalid: triple character repetition
+अअअज़्यादातर,INCORRECT,HIGH,Invalid: triple character repetition
+फिजकल...,INCORRECT,HIGH,Invalid: triple character repetition
+तो...इस,INCORRECT,HIGH,Invalid: triple character repetition
+फटाक्,INCORRECT,HIGH,Suspicious: ends with halant
+रिमू...,INCORRECT,HIGH,Invalid: triple character repetition
+दिब्,INCORRECT,HIGH,Suspicious: ends with halant
+ह.....मम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+ड्राईविंग्,INCORRECT,HIGH,Suspicious: ends with halant
+हजाररर,INCORRECT,HIGH,Invalid: triple character repetition
+हून्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहम्म,INCORRECT,HIGH,Invalid: triple character repetition
+अ...बड़े,INCORRECT,HIGH,Invalid: triple character repetition
+बुद्,INCORRECT,HIGH,Suspicious: ends with halant
+वाह्,INCORRECT,HIGH,Suspicious: ends with halant
+क्वेश्,INCORRECT,HIGH,Suspicious: ends with halant
+वैैसा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सीधे...,INCORRECT,HIGH,Invalid: triple character repetition
+बिकॉज्,INCORRECT,HIGH,Suspicious: ends with halant
+ए_एम्,INCORRECT,HIGH,Suspicious: ends with halant
+अचचच्छा,INCORRECT,HIGH,Invalid: triple character repetition
+परमा...,INCORRECT,HIGH,Invalid: triple character repetition
+रश्,INCORRECT,HIGH,Suspicious: ends with halant
+रिफाइनरिज्,INCORRECT,HIGH,Suspicious: ends with halant
+इलेबेन्,INCORRECT,HIGH,Suspicious: ends with halant
+सांस्,INCORRECT,HIGH,Suspicious: ends with halant
+सिलबस्,INCORRECT,HIGH,Suspicious: ends with halant
+या...कोई,INCORRECT,HIGH,Invalid: triple character repetition
+बराबर्,INCORRECT,HIGH,Suspicious: ends with halant
+सदस्,INCORRECT,HIGH,Suspicious: ends with halant
+सुुनना,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+देेख,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+तिल्,INCORRECT,HIGH,Suspicious: ends with halant
+के...अहम्म...,INCORRECT,HIGH,Invalid: triple character repetition
+सुझाव्,INCORRECT,HIGH,Suspicious: ends with halant
+उलझ्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्मम....जी।,INCORRECT,HIGH,Invalid: triple character repetition
+समय....देर,INCORRECT,HIGH,Invalid: triple character repetition
+आस्,INCORRECT,HIGH,Suspicious: ends with halant
+सारा...,INCORRECT,HIGH,Invalid: triple character repetition
+पहली...,INCORRECT,HIGH,Invalid: triple character repetition
+खुश्,INCORRECT,HIGH,Suspicious: ends with halant
+ज़िन...,INCORRECT,HIGH,Invalid: triple character repetition
+गव्,INCORRECT,HIGH,Suspicious: ends with halant
+छत्,INCORRECT,HIGH,Suspicious: ends with halant
+आज्,INCORRECT,HIGH,Suspicious: ends with halant
+एग्जामस्,INCORRECT,HIGH,Suspicious: ends with halant
+कैसुअल्,INCORRECT,HIGH,Suspicious: ends with halant
+अनेक्,INCORRECT,HIGH,Suspicious: ends with halant
+वम्,INCORRECT,HIGH,Suspicious: ends with halant
+अहस्॓,INCORRECT,HIGH,Suspicious: ends with halant
+हिसाब्,INCORRECT,HIGH,Suspicious: ends with halant
+कियाा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बैठ्,INCORRECT,HIGH,Suspicious: ends with halant
+जीवीत्,INCORRECT,HIGH,Suspicious: ends with halant
+महाभारत्,INCORRECT,HIGH,Suspicious: ends with halant
+भविस्,INCORRECT,HIGH,Suspicious: ends with halant
+बोस्,INCORRECT,HIGH,Suspicious: ends with halant
+उफ्,INCORRECT,HIGH,Suspicious: ends with halant
+वैस्,INCORRECT,HIGH,Suspicious: ends with halant
+अहम....जी।,INCORRECT,HIGH,Invalid: triple character repetition
+जो....मार्केटिंग,INCORRECT,HIGH,Invalid: triple character repetition
+फूड....जिसे....जिसे,INCORRECT,HIGH,Invalid: triple character repetition
+।।।।ह्म्म,INCORRECT,HIGH,Invalid: triple character repetition
+दददस,INCORRECT,HIGH,Invalid: triple character repetition
+पढ़...।,INCORRECT,HIGH,Invalid: triple character repetition
+इत्,INCORRECT,HIGH,Suspicious: ends with halant
+कस्टर्,INCORRECT,HIGH,Suspicious: ends with halant
+बपन्,INCORRECT,HIGH,Suspicious: ends with halant
+कीजिएगा...,INCORRECT,HIGH,Invalid: triple character repetition
+ग्रेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हैा.,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बिस्,INCORRECT,HIGH,Suspicious: ends with halant
+प्लान्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रोजेक्,INCORRECT,HIGH,Suspicious: ends with halant
+हाँऽऽऽऽ,INCORRECT,HIGH,Invalid: triple character repetition
+आपाेजि़ट,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वाेना,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एक्सचेंजेब्ल्,INCORRECT,HIGH,Suspicious: ends with halant
+पैक्,INCORRECT,HIGH,Suspicious: ends with halant
+आप...आप,INCORRECT,HIGH,Invalid: triple character repetition
+उर्जस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+नुकसान...,INCORRECT,HIGH,Invalid: triple character repetition
+आकर्,INCORRECT,HIGH,Suspicious: ends with halant
+नीट्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्सप्,INCORRECT,HIGH,Suspicious: ends with halant
+हाँ.....हाँ,INCORRECT,HIGH,Invalid: triple character repetition
+हॉन....बिल्कुल,INCORRECT,HIGH,Invalid: triple character repetition
+स्पोर्ट्र्,INCORRECT,HIGH,Suspicious: ends with halant
+है......फायदा,INCORRECT,HIGH,Invalid: triple character repetition
+प्रोडकास्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+इसका...,INCORRECT,HIGH,Invalid: triple character repetition
+मार्वल...।,INCORRECT,HIGH,Invalid: triple character repetition
+अ.....इंडिया,INCORRECT,HIGH,Invalid: triple character repetition
+अ....जैसे,INCORRECT,HIGH,Invalid: triple character repetition
+आर_वन_सिक्स्,INCORRECT,HIGH,Suspicious: ends with halant
+...थोड़ी,INCORRECT,HIGH,Invalid: triple character repetition
+दो-चार...,INCORRECT,HIGH,Invalid: triple character repetition
+अपने...,INCORRECT,HIGH,Invalid: triple character repetition
+हा...हा,INCORRECT,HIGH,Invalid: triple character repetition
+गाय्,INCORRECT,HIGH,Suspicious: ends with halant
+सब्जेक्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म...।,INCORRECT,HIGH,Invalid: triple character repetition
+मिश्यूूज,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हननननननननन,INCORRECT,HIGH,Invalid: triple character repetition
+अम्म.....फ्यूचर,INCORRECT,HIGH,Invalid: triple character repetition
+...कहां,INCORRECT,HIGH,Invalid: triple character repetition
+है....बाहर,INCORRECT,HIGH,Invalid: triple character repetition
+धन्यवाद...,INCORRECT,HIGH,Invalid: triple character repetition
+अभी...अभी,INCORRECT,HIGH,Invalid: triple character repetition
+पिछले...,INCORRECT,HIGH,Invalid: triple character repetition
+बलकि...,INCORRECT,HIGH,Invalid: triple character repetition
+स्थाप्,INCORRECT,HIGH,Suspicious: ends with halant
+कोडस्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म...मुझे,INCORRECT,HIGH,Invalid: triple character repetition
+बैडमिंटन....,INCORRECT,HIGH,Invalid: triple character repetition
+उसने...,INCORRECT,HIGH,Invalid: triple character repetition
+युुजेेज,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ज्वोइन्,INCORRECT,HIGH,Suspicious: ends with halant
+सहयोग्,INCORRECT,HIGH,Suspicious: ends with halant
+प्राइवेट...,INCORRECT,HIGH,Invalid: triple character repetition
+"हम्म....""किसी",INCORRECT,HIGH,Invalid: triple character repetition
+बहतर...,INCORRECT,HIGH,Invalid: triple character repetition
+ह्हहहह,INCORRECT,HIGH,Invalid: triple character repetition
+हैंडमेद्,INCORRECT,HIGH,Suspicious: ends with halant
+इसलिए....,INCORRECT,HIGH,Invalid: triple character repetition
+सेम्,INCORRECT,HIGH,Suspicious: ends with halant
+अच्छा....,INCORRECT,HIGH,Invalid: triple character repetition
+कौन्स्त्रेस्न्,INCORRECT,HIGH,Suspicious: ends with halant
+हेलो...जी,INCORRECT,HIGH,Invalid: triple character repetition
+करेगा....,INCORRECT,HIGH,Invalid: triple character repetition
+मममुश्किलें,INCORRECT,HIGH,Invalid: triple character repetition
+किलाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बिडीूटी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एक्शनस्,INCORRECT,HIGH,Suspicious: ends with halant
+सीरियलस्,INCORRECT,HIGH,Suspicious: ends with halant
+ह्म्म्...,INCORRECT,HIGH,Invalid: triple character repetition
+समथिंग्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रक्,INCORRECT,HIGH,Suspicious: ends with halant
+लेकपीस्,INCORRECT,HIGH,Suspicious: ends with halant
+चअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+ुसेड,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+हम्म....हम्म,INCORRECT,HIGH,Invalid: triple character repetition
+अह....बात,INCORRECT,HIGH,Invalid: triple character repetition
+खेत्,INCORRECT,HIGH,Suspicious: ends with halant
+बूोले,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+श्श्श्,INCORRECT,HIGH,Suspicious: ends with halant
+मेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+याा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रेमेडिस्,INCORRECT,HIGH,Suspicious: ends with halant
+मैथ्,INCORRECT,HIGH,Suspicious: ends with halant
+मिलो...,INCORRECT,HIGH,Invalid: triple character repetition
+अलग-अलग...,INCORRECT,HIGH,Invalid: triple character repetition
+अरे....हे,INCORRECT,HIGH,Invalid: triple character repetition
+चांसेस्,INCORRECT,HIGH,Suspicious: ends with halant
+ट्रांसले्,INCORRECT,HIGH,Suspicious: ends with halant
+अंदर...,INCORRECT,HIGH,Invalid: triple character repetition
+में....अहह....कुछ,INCORRECT,HIGH,Invalid: triple character repetition
+सूद्,INCORRECT,HIGH,Suspicious: ends with halant
+हेल्लो...,INCORRECT,HIGH,Invalid: triple character repetition
+पुस्,INCORRECT,HIGH,Suspicious: ends with halant
+लाइफ...,INCORRECT,HIGH,Invalid: triple character repetition
+खुसीयाेसे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+करतेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हहहहह...,INCORRECT,HIGH,Invalid: triple character repetition
+हहहहह..,INCORRECT,HIGH,Invalid: triple character repetition
+हां...बेसन,INCORRECT,HIGH,Invalid: triple character repetition
+हाअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+हुंममम,INCORRECT,HIGH,Invalid: triple character repetition
+कुच्,INCORRECT,HIGH,Suspicious: ends with halant
+फूूल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+साफ्,INCORRECT,HIGH,Suspicious: ends with halant
+.हम्ममम,INCORRECT,HIGH,Invalid: triple character repetition
+"अम्म,हम्ममम",INCORRECT,HIGH,Invalid: triple character repetition
+एनर्,INCORRECT,HIGH,Suspicious: ends with halant
+मैैथ,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+दिवालियाें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हैंडरेंड्,INCORRECT,HIGH,Suspicious: ends with halant
+नुस्,INCORRECT,HIGH,Suspicious: ends with halant
+ह्हहह्ह,INCORRECT,HIGH,Invalid: triple character repetition
+हहहह्हह,INCORRECT,HIGH,Invalid: triple character repetition
+सकतेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पैैैैदल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+जोोंता,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+है...जी,INCORRECT,HIGH,Invalid: triple character repetition
+पक्,INCORRECT,HIGH,Suspicious: ends with halant
+कोल्,INCORRECT,HIGH,Suspicious: ends with halant
+रहेेगा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कंटेस्,INCORRECT,HIGH,Suspicious: ends with halant
+ऐैप्स,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+स्वच्,INCORRECT,HIGH,Suspicious: ends with halant
+विश्तेेेदार,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+किलोमीटर्,INCORRECT,HIGH,Suspicious: ends with halant
+महेक्,INCORRECT,HIGH,Suspicious: ends with halant
+बैैठ,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+विचित्,INCORRECT,HIGH,Suspicious: ends with halant
+पपप,INCORRECT,HIGH,Invalid: triple character repetition
+चाय्,INCORRECT,HIGH,Suspicious: ends with halant
+फेयरवेेल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+१०००ऐसा,INCORRECT,HIGH,Invalid: triple character repetition
+शेड्यू्ल्,INCORRECT,HIGH,Suspicious: ends with halant
+नीद्,INCORRECT,HIGH,Suspicious: ends with halant
+शेडुल्,INCORRECT,HIGH,Suspicious: ends with halant
+मिल्,INCORRECT,HIGH,Suspicious: ends with halant
+मम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+आॉंगे,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+खट्,INCORRECT,HIGH,Suspicious: ends with halant
+गेेेमर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हअअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+हूंहहहहह.,INCORRECT,HIGH,Invalid: triple character repetition
+उत्पन्,INCORRECT,HIGH,Suspicious: ends with halant
+निष्,INCORRECT,HIGH,Suspicious: ends with halant
+स्टाेलें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कुटुम्बकम्,INCORRECT,HIGH,Suspicious: ends with halant
+व्रहस्,INCORRECT,HIGH,Suspicious: ends with halant
+अडिक्,INCORRECT,HIGH,Suspicious: ends with halant
+मित्,INCORRECT,HIGH,Suspicious: ends with halant
+अअअअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+करेक्,INCORRECT,HIGH,Suspicious: ends with halant
+पाकिस्,INCORRECT,HIGH,Suspicious: ends with halant
+हँम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्ममम्मम,INCORRECT,HIGH,Invalid: triple character repetition
+जातेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्रेंडस्,INCORRECT,HIGH,Suspicious: ends with halant
+वेपराइज्,INCORRECT,HIGH,Suspicious: ends with halant
+खुद्,INCORRECT,HIGH,Suspicious: ends with halant
+पर्पस्,INCORRECT,HIGH,Suspicious: ends with halant
+सबजेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+सूर्ज्,INCORRECT,HIGH,Suspicious: ends with halant
+चीजेें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वेेशभूषा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+शाम्,INCORRECT,HIGH,Suspicious: ends with halant
+प्रोत्,INCORRECT,HIGH,Suspicious: ends with halant
+लगजरीस्,INCORRECT,HIGH,Suspicious: ends with halant
+मयुजिम्,INCORRECT,HIGH,Suspicious: ends with halant
+संग्रालह्,INCORRECT,HIGH,Suspicious: ends with halant
+टूरिस्,INCORRECT,HIGH,Suspicious: ends with halant
+इडियट्,INCORRECT,HIGH,Suspicious: ends with halant
+टोक्,INCORRECT,HIGH,Suspicious: ends with halant
+टॉपिक्,INCORRECT,HIGH,Suspicious: ends with halant
+बंकिलिच्,INCORRECT,HIGH,Suspicious: ends with halant
+छठ्,INCORRECT,HIGH,Suspicious: ends with halant
+चाहेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इतन्,INCORRECT,HIGH,Suspicious: ends with halant
+परस्,INCORRECT,HIGH,Suspicious: ends with halant
+रेस्पेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+देेेश,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+देेश,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+नाऐंथ्,INCORRECT,HIGH,Suspicious: ends with halant
+उसकेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रिश्तेेेेेदारों,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अ्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+अअअ-आप,INCORRECT,HIGH,Invalid: triple character repetition
+।हहह,INCORRECT,HIGH,Invalid: triple character repetition
+शॉर्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+आपनेेेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अब्सेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+साात,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मुुसकिल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रिश्तेेेेेेदार,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+थेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+जबत्,INCORRECT,HIGH,Suspicious: ends with halant
+जाद्,INCORRECT,HIGH,Suspicious: ends with halant
+केेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बोर्,INCORRECT,HIGH,Suspicious: ends with halant
+अज्,INCORRECT,HIGH,Suspicious: ends with halant
+ओक्,INCORRECT,HIGH,Suspicious: ends with halant
+रिश्तेेेेदार,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+स्मेेल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+नाॅॅलेेजेेस,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+टूू,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कोस्टमर्,INCORRECT,HIGH,Suspicious: ends with halant
+स्ट्रेंथ्,INCORRECT,HIGH,Suspicious: ends with halant
+ओब्जेक्टिब्,INCORRECT,HIGH,Suspicious: ends with halant
+फ्रैंड्,INCORRECT,HIGH,Suspicious: ends with halant
+बोहत्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहहह!,INCORRECT,HIGH,Invalid: triple character repetition
+सेंट्रेस्,INCORRECT,HIGH,Suspicious: ends with halant
+मध्य्,INCORRECT,HIGH,Suspicious: ends with halant
+हफ्,INCORRECT,HIGH,Suspicious: ends with halant
+टीइइइइ.,INCORRECT,HIGH,Invalid: triple character repetition
+कठिन्,INCORRECT,HIGH,Suspicious: ends with halant
+अहहह।,INCORRECT,HIGH,Invalid: triple character repetition
+हंम्म्,INCORRECT,HIGH,Suspicious: ends with halant
+पुोधा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+नेस्,INCORRECT,HIGH,Suspicious: ends with halant
+हमलेाग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मेन्,INCORRECT,HIGH,Suspicious: ends with halant
+कन्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+थाेडा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इंवायरमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+क्वेश्चन्,INCORRECT,HIGH,Suspicious: ends with halant
+परेेशानी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एःह्,INCORRECT,HIGH,Suspicious: ends with halant
+मुद्,INCORRECT,HIGH,Suspicious: ends with halant
+"हहह,",INCORRECT,HIGH,Invalid: triple character repetition
+मैेने,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बलर्,INCORRECT,HIGH,Suspicious: ends with halant
+गैजट्,INCORRECT,HIGH,Suspicious: ends with halant
+इंटरस्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+लुह्,INCORRECT,HIGH,Suspicious: ends with halant
+लगेह्,INCORRECT,HIGH,Suspicious: ends with halant
+अॉफ,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+इ.एम.आईस्,INCORRECT,HIGH,Suspicious: ends with halant
+चयन्,INCORRECT,HIGH,Suspicious: ends with halant
+सांबर्,INCORRECT,HIGH,Suspicious: ends with halant
+डिसएडवांटेजेस्,INCORRECT,HIGH,Suspicious: ends with halant
+सॉफ्,INCORRECT,HIGH,Suspicious: ends with halant
+इन्वॉल्व्,INCORRECT,HIGH,Suspicious: ends with halant
+जेम्,INCORRECT,HIGH,Suspicious: ends with halant
+कैरेक्,INCORRECT,HIGH,Suspicious: ends with halant
+मशरूमस्,INCORRECT,HIGH,Suspicious: ends with halant
+सुरुकाेत,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मैें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+चच्,INCORRECT,HIGH,Suspicious: ends with halant
+के्,INCORRECT,HIGH,Suspicious: ends with halant
+ककक,INCORRECT,HIGH,Invalid: triple character repetition
+कहाम्,INCORRECT,HIGH,Suspicious: ends with halant
+अटेम्प्,INCORRECT,HIGH,Suspicious: ends with halant
+का्,INCORRECT,HIGH,Suspicious: ends with halant
+एक्ककक,INCORRECT,HIGH,Invalid: triple character repetition
+मंथस्,INCORRECT,HIGH,Suspicious: ends with halant
+हेैट,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सॉइक्ल्,INCORRECT,HIGH,Suspicious: ends with halant
+अअअ.हहह.,INCORRECT,HIGH,Invalid: triple character repetition
+गिराे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मेटस्,INCORRECT,HIGH,Suspicious: ends with halant
+इनवेस्,INCORRECT,HIGH,Suspicious: ends with halant
+मैैने,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+फालोवर्,INCORRECT,HIGH,Suspicious: ends with halant
+वैदर्,INCORRECT,HIGH,Suspicious: ends with halant
+हाआआआआ,INCORRECT,HIGH,Invalid: triple character repetition
+टोन्,INCORRECT,HIGH,Suspicious: ends with halant
+विट्,INCORRECT,HIGH,Suspicious: ends with halant
+मिनिम्,INCORRECT,HIGH,Suspicious: ends with halant
+मिनिट्,INCORRECT,HIGH,Suspicious: ends with halant
+भुल्,INCORRECT,HIGH,Suspicious: ends with halant
+"हुआ,ह्म्",INCORRECT,HIGH,Suspicious: ends with halant
+रीकवर्,INCORRECT,HIGH,Suspicious: ends with halant
+करकेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+समंजस्,INCORRECT,HIGH,Suspicious: ends with halant
+"हाँ,हहह।",INCORRECT,HIGH,Invalid: triple character repetition
+कॉमिक्,INCORRECT,HIGH,Suspicious: ends with halant
+एहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+ग्यारह्,INCORRECT,HIGH,Suspicious: ends with halant
+शब्,INCORRECT,HIGH,Suspicious: ends with halant
+धाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+।ऋऋऋऋऋऋऋऋऋ।ऋ,INCORRECT,HIGH,Invalid: triple character repetition
+मुर्,INCORRECT,HIGH,Suspicious: ends with halant
+हमम्ममम।,INCORRECT,HIGH,Invalid: triple character repetition
+गल्,INCORRECT,HIGH,Suspicious: ends with halant
+वीडियोज्,INCORRECT,HIGH,Suspicious: ends with halant
+पंन्द्रह्,INCORRECT,HIGH,Suspicious: ends with halant
+नज़दीक्,INCORRECT,HIGH,Suspicious: ends with halant
+स्टार्,INCORRECT,HIGH,Suspicious: ends with halant
+आआआआआआआआ,INCORRECT,HIGH,Invalid: triple character repetition
+ऑब्जर्व्,INCORRECT,HIGH,Suspicious: ends with halant
+अपनेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हहहसस,INCORRECT,HIGH,Invalid: triple character repetition
+एक्सैंस्,INCORRECT,HIGH,Suspicious: ends with halant
+हहहहहआई,INCORRECT,HIGH,Invalid: triple character repetition
+उम्मीदेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इम्बैरस्,INCORRECT,HIGH,Suspicious: ends with halant
+अप्रत्,INCORRECT,HIGH,Suspicious: ends with halant
+मनोरंजनक्,INCORRECT,HIGH,Suspicious: ends with halant
+फलाेर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पकरम्,INCORRECT,HIGH,Suspicious: ends with halant
+स्ट्रगल्,INCORRECT,HIGH,Suspicious: ends with halant
+बर्दास्,INCORRECT,HIGH,Suspicious: ends with halant
+अअअनन,INCORRECT,HIGH,Invalid: triple character repetition
+रोबोटस्,INCORRECT,HIGH,Suspicious: ends with halant
+मार्,INCORRECT,HIGH,Suspicious: ends with halant
+कलिकस्,INCORRECT,HIGH,Suspicious: ends with halant
+अचीवमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+"हम्ममम,हु",INCORRECT,HIGH,Invalid: triple character repetition
+हस्,INCORRECT,HIGH,Suspicious: ends with halant
+जन्,INCORRECT,HIGH,Suspicious: ends with halant
+तोअम्,INCORRECT,HIGH,Suspicious: ends with halant
+मुन्,INCORRECT,HIGH,Suspicious: ends with halant
+हुँउउउ,INCORRECT,HIGH,Invalid: triple character repetition
+हां...मतलब,INCORRECT,HIGH,Invalid: triple character repetition
+यस्,INCORRECT,HIGH,Suspicious: ends with halant
+एब्स्,INCORRECT,HIGH,Suspicious: ends with halant
+उहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+मेरेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हीे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+...बिल्कुल,INCORRECT,HIGH,Invalid: triple character repetition
+उन्होंनेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कजन्,INCORRECT,HIGH,Suspicious: ends with halant
+जीह्,INCORRECT,HIGH,Suspicious: ends with halant
+या...लोगों,INCORRECT,HIGH,Invalid: triple character repetition
+फ्रेशनेस्,INCORRECT,HIGH,Suspicious: ends with halant
+पराम्,INCORRECT,HIGH,Suspicious: ends with halant
+सबसेेेेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सकतेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रखतेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मुझेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+दुख...तो,INCORRECT,HIGH,Invalid: triple character repetition
+कंट्रोल...,INCORRECT,HIGH,Invalid: triple character repetition
+भी...नहीं,INCORRECT,HIGH,Invalid: triple character repetition
+प्रीवियस्,INCORRECT,HIGH,Suspicious: ends with halant
+स्पेेंड,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+एक्चचुअल्,INCORRECT,HIGH,Suspicious: ends with halant
+हैं...कभी,INCORRECT,HIGH,Invalid: triple character repetition
+उम्ममम..आपने,INCORRECT,HIGH,Invalid: triple character repetition
+ओके...आपका,INCORRECT,HIGH,Invalid: triple character repetition
+हूँ...हं,INCORRECT,HIGH,Invalid: triple character repetition
+व्हीकल्,INCORRECT,HIGH,Suspicious: ends with halant
+अ...कोमेडी,INCORRECT,HIGH,Invalid: triple character repetition
+बाहर..अ...काफी,INCORRECT,HIGH,Invalid: triple character repetition
+अह...अभी,INCORRECT,HIGH,Invalid: triple character repetition
+तो...हम,INCORRECT,HIGH,Invalid: triple character repetition
+लाक्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्ममम्म,INCORRECT,HIGH,Invalid: triple character repetition
+"जाएगा...""",INCORRECT,HIGH,Invalid: triple character repetition
+शिष्,INCORRECT,HIGH,Suspicious: ends with halant
+मेेरे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+देेते,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+चुुब्बू,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कैंडिडेटस्,INCORRECT,HIGH,Suspicious: ends with halant
+शिक्षा...।,INCORRECT,HIGH,Invalid: triple character repetition
+प्रोसेस्,INCORRECT,HIGH,Suspicious: ends with halant
+चूूंकि,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बाइजुस्,INCORRECT,HIGH,Suspicious: ends with halant
+यद्,INCORRECT,HIGH,Suspicious: ends with halant
+रीकुएस्,INCORRECT,HIGH,Suspicious: ends with halant
+हा....हाॅ,INCORRECT,HIGH,Invalid: triple character repetition
+देेेेेखिये,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+....जरूरी,INCORRECT,HIGH,Invalid: triple character repetition
+करना...,INCORRECT,HIGH,Invalid: triple character repetition
+कनेेक्शन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+तेेल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अह...इतना,INCORRECT,HIGH,Invalid: triple character repetition
+चीज्,INCORRECT,HIGH,Suspicious: ends with halant
+एकक्,INCORRECT,HIGH,Suspicious: ends with halant
+सेेेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+तरक्,INCORRECT,HIGH,Suspicious: ends with halant
+हाँ.....जी।,INCORRECT,HIGH,Invalid: triple character repetition
+कढ़्,INCORRECT,HIGH,Suspicious: ends with halant
+तो...तो,INCORRECT,HIGH,Invalid: triple character repetition
+इमेजिन्,INCORRECT,HIGH,Suspicious: ends with halant
+नेेचर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वग्,INCORRECT,HIGH,Suspicious: ends with halant
+व्हाट्,INCORRECT,HIGH,Suspicious: ends with halant
+जि्,INCORRECT,HIGH,Suspicious: ends with halant
+थिंक...,INCORRECT,HIGH,Invalid: triple character repetition
+पहाड़...,INCORRECT,HIGH,Invalid: triple character repetition
+पूजा....फिर,INCORRECT,HIGH,Invalid: triple character repetition
+बोलतेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+टिप्स्,INCORRECT,HIGH,Suspicious: ends with halant
+चेेटर्स,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+लेना...,INCORRECT,HIGH,Invalid: triple character repetition
+है...दो,INCORRECT,HIGH,Invalid: triple character repetition
+है...फाइन,INCORRECT,HIGH,Invalid: triple character repetition
+वाेवा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+शशशश,INCORRECT,HIGH,Invalid: triple character repetition
+ह्म्म...,INCORRECT,HIGH,Invalid: triple character repetition
+लेंगवेजस्,INCORRECT,HIGH,Suspicious: ends with halant
+शुुभरात्रि,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+शाांत,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आप...जी,INCORRECT,HIGH,Invalid: triple character repetition
+मोटिवे़ट्,INCORRECT,HIGH,Suspicious: ends with halant
+...उसको,INCORRECT,HIGH,Invalid: triple character repetition
+हम....सही,INCORRECT,HIGH,Invalid: triple character repetition
+विस्मय्,INCORRECT,HIGH,Suspicious: ends with halant
+को...जो,INCORRECT,HIGH,Invalid: triple character repetition
+हहह..,INCORRECT,HIGH,Invalid: triple character repetition
+अय्,INCORRECT,HIGH,Suspicious: ends with halant
+टास्क...,INCORRECT,HIGH,Invalid: triple character repetition
+अ...चाचा,INCORRECT,HIGH,Invalid: triple character repetition
+उसका...,INCORRECT,HIGH,Invalid: triple character repetition
+भवेत्,INCORRECT,HIGH,Suspicious: ends with halant
+दुःखभाग्,INCORRECT,HIGH,Suspicious: ends with halant
+उन्हें...,INCORRECT,HIGH,Invalid: triple character repetition
+भेेड़,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आपकेेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रहेगी...,INCORRECT,HIGH,Invalid: triple character repetition
+कंपैरिजन्,INCORRECT,HIGH,Suspicious: ends with halant
+यूज़्,INCORRECT,HIGH,Suspicious: ends with halant
+वगर्,INCORRECT,HIGH,Suspicious: ends with halant
+सियेबस्,INCORRECT,HIGH,Suspicious: ends with halant
+चम्पारन्,INCORRECT,HIGH,Suspicious: ends with halant
+गोर्मेंन्,INCORRECT,HIGH,Suspicious: ends with halant
+सिर्फ...,INCORRECT,HIGH,Invalid: triple character repetition
+पीढ़ी....,INCORRECT,HIGH,Invalid: triple character repetition
+सक्,INCORRECT,HIGH,Suspicious: ends with halant
+कपड़ेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+घूम्,INCORRECT,HIGH,Suspicious: ends with halant
+दूध्,INCORRECT,HIGH,Suspicious: ends with halant
+अ...भीष्मपितामह,INCORRECT,HIGH,Invalid: triple character repetition
+अख्ह...भाई,INCORRECT,HIGH,Invalid: triple character repetition
+उन्होंने...,INCORRECT,HIGH,Invalid: triple character repetition
+अर्केटेक्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+था....निरंजना,INCORRECT,HIGH,Invalid: triple character repetition
+...होता,INCORRECT,HIGH,Invalid: triple character repetition
+हां...यह,INCORRECT,HIGH,Invalid: triple character repetition
+काॅर्पोरेट्,INCORRECT,HIGH,Suspicious: ends with halant
+।ह्न्न्न्न्न्...!,INCORRECT,HIGH,Invalid: triple character repetition
+फ़ैैमिलियर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ईज्,INCORRECT,HIGH,Suspicious: ends with halant
+मक्,INCORRECT,HIGH,Suspicious: ends with halant
+अग्,INCORRECT,HIGH,Suspicious: ends with halant
+सार्,INCORRECT,HIGH,Suspicious: ends with halant
+परोस्,INCORRECT,HIGH,Suspicious: ends with halant
+इमैजिनेश्न्,INCORRECT,HIGH,Suspicious: ends with halant
+दिल्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म...बिलकुल।,INCORRECT,HIGH,Invalid: triple character repetition
+रैदर्,INCORRECT,HIGH,Suspicious: ends with halant
+आआह्,INCORRECT,HIGH,Suspicious: ends with halant
+एप्रिसीएटस्,INCORRECT,HIGH,Suspicious: ends with halant
+पपेट...,INCORRECT,HIGH,Invalid: triple character repetition
+वेबसाइटस्,INCORRECT,HIGH,Suspicious: ends with halant
+जो...ऐतिहासिक,INCORRECT,HIGH,Invalid: triple character repetition
+हां...हा,INCORRECT,HIGH,Invalid: triple character repetition
+सेटिस्,INCORRECT,HIGH,Suspicious: ends with halant
+सेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+यूूज,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हममम...,INCORRECT,HIGH,Invalid: triple character repetition
+तो...मैंने,INCORRECT,HIGH,Invalid: triple character repetition
+लाइटस्,INCORRECT,HIGH,Suspicious: ends with halant
+उम्म......खासकर,INCORRECT,HIGH,Invalid: triple character repetition
+घु...आह,INCORRECT,HIGH,Invalid: triple character repetition
+दुुकानदारों,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पूंजीवाद...,INCORRECT,HIGH,Invalid: triple character repetition
+पाांच,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ग्रेज्येुसन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+चेयर्,INCORRECT,HIGH,Suspicious: ends with halant
+कप्,INCORRECT,HIGH,Suspicious: ends with halant
+वगैैरह,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+डॉक्युमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+बचपन...बचपना,INCORRECT,HIGH,Invalid: triple character repetition
+लोगाे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+क्याेकि,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सुधाराे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आह.....नींबू,INCORRECT,HIGH,Invalid: triple character repetition
+...वहां,INCORRECT,HIGH,Invalid: triple character repetition
+लेेकिन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वक़्,INCORRECT,HIGH,Suspicious: ends with halant
+आव्,INCORRECT,HIGH,Suspicious: ends with halant
+दअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+नेेल,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आ...उसी,INCORRECT,HIGH,Invalid: triple character repetition
+तकरीबन...मेरा,INCORRECT,HIGH,Invalid: triple character repetition
+आ....विज्ञापन,INCORRECT,HIGH,Invalid: triple character repetition
+तास्,INCORRECT,HIGH,Suspicious: ends with halant
+गरम्,INCORRECT,HIGH,Suspicious: ends with halant
+मुुंशी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कंफ्यूूजन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मिनीमम्,INCORRECT,HIGH,Suspicious: ends with halant
+हां...।,INCORRECT,HIGH,Invalid: triple character repetition
+पॉट्,INCORRECT,HIGH,Suspicious: ends with halant
+डिटेल्,INCORRECT,HIGH,Suspicious: ends with halant
+घररर,INCORRECT,HIGH,Invalid: triple character repetition
+भलेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+इंसान...,INCORRECT,HIGH,Invalid: triple character repetition
+पेेर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हूंहुन्नननं,INCORRECT,HIGH,Invalid: triple character repetition
+हाँ...दीवाली,INCORRECT,HIGH,Invalid: triple character repetition
+बेनिफिट्,INCORRECT,HIGH,Suspicious: ends with halant
+मैममममम,INCORRECT,HIGH,Invalid: triple character repetition
+....हाहाहाहा,INCORRECT,HIGH,Invalid: triple character repetition
+ऐसेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+जैसेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+जी......।बहुत,INCORRECT,HIGH,Invalid: triple character repetition
+ढूूँढना,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हुंहहुंह.......अच्छा,INCORRECT,HIGH,Invalid: triple character repetition
+है...सब,INCORRECT,HIGH,Invalid: triple character repetition
+कलीग्,INCORRECT,HIGH,Suspicious: ends with halant
+पूूूचका,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सेेेफ़्टी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ह्हहह,INCORRECT,HIGH,Invalid: triple character repetition
+आअ...आप,INCORRECT,HIGH,Invalid: triple character repetition
+फेस्,INCORRECT,HIGH,Suspicious: ends with halant
+स्कूूटी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बैंगलोर्,INCORRECT,HIGH,Suspicious: ends with halant
+हेल्लो....,INCORRECT,HIGH,Invalid: triple character repetition
+पहलेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+महसूूूस,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+खुुुुुद,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हमनेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+सेेेेेेेेेेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हहह्हह,INCORRECT,HIGH,Invalid: triple character repetition
+समुन्,INCORRECT,HIGH,Suspicious: ends with halant
+आइडियास्,INCORRECT,HIGH,Suspicious: ends with halant
+स्ट्रेस्,INCORRECT,HIGH,Suspicious: ends with halant
+इशूू,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+कमरेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+गेेम,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+"ग्राफिक...""",INCORRECT,HIGH,Invalid: triple character repetition
+फृूट्स,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आर्किटेक्,INCORRECT,HIGH,Suspicious: ends with halant
+रहेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+भूञ्,INCORRECT,HIGH,Suspicious: ends with halant
+आपने...,INCORRECT,HIGH,Invalid: triple character repetition
+होोते,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हाँ-हाँ...,INCORRECT,HIGH,Invalid: triple character repetition
+बटेक्,INCORRECT,HIGH,Suspicious: ends with halant
+कॉम्प्,INCORRECT,HIGH,Suspicious: ends with halant
+मज़ेदर्,INCORRECT,HIGH,Suspicious: ends with halant
+मम्ममम्मा,INCORRECT,HIGH,Invalid: triple character repetition
+स्ल्लोव्,INCORRECT,HIGH,Suspicious: ends with halant
+लकिन्,INCORRECT,HIGH,Suspicious: ends with halant
+अनाउंसमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+अनाउंसेमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+कोल्ड्,INCORRECT,HIGH,Suspicious: ends with halant
+लाेग,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+फिसेज्,INCORRECT,HIGH,Suspicious: ends with halant
+ताकि...,INCORRECT,HIGH,Invalid: triple character repetition
+मेेन-,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बच्चेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+केैसे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+प्रोफेसर्,INCORRECT,HIGH,Suspicious: ends with halant
+चैप्टरस्,INCORRECT,HIGH,Suspicious: ends with halant
+हैं....ब..अम्,INCORRECT,HIGH,Invalid: triple character repetition
+रिश्तेेेेेदारी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+वव्,INCORRECT,HIGH,Suspicious: ends with halant
+ओओ्,INCORRECT,HIGH,Suspicious: ends with halant
+बताएं...जी,INCORRECT,HIGH,Invalid: triple character repetition
+पअअअ,INCORRECT,HIGH,Invalid: triple character repetition
+आपक्,INCORRECT,HIGH,Suspicious: ends with halant
+हम्म....हां,INCORRECT,HIGH,Invalid: triple character repetition
+डिश्,INCORRECT,HIGH,Suspicious: ends with halant
+ररर,INCORRECT,HIGH,Invalid: triple character repetition
+ाँ,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+जैसेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पसीनेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रिश्तेेेेदारर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+खुुुद,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ब्लाउज्,INCORRECT,HIGH,Suspicious: ends with halant
+लिएू,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+एनुअल्,INCORRECT,HIGH,Suspicious: ends with halant
+ट्वेेंटी,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अंनुअल्,INCORRECT,HIGH,Suspicious: ends with halant
+चीजें...,INCORRECT,HIGH,Invalid: triple character repetition
+परित्यजेत्,INCORRECT,HIGH,Suspicious: ends with halant
+चोेबीस,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पड़त्,INCORRECT,HIGH,Suspicious: ends with halant
+हह्ह्ह्,INCORRECT,HIGH,Suspicious: ends with halant
+मेेंटेन,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+बॉयज़्,INCORRECT,HIGH,Suspicious: ends with halant
+सादनम्,INCORRECT,HIGH,Suspicious: ends with halant
+कवीनामुपमश्रवस्तमम्,INCORRECT,HIGH,Suspicious: ends with halant
+डेेढ़,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+फीलिंग्,INCORRECT,HIGH,Suspicious: ends with halant
+रिसॉर्ट्,INCORRECT,HIGH,Suspicious: ends with halant
+"तकनीकी...""",INCORRECT,HIGH,Invalid: triple character repetition
+सीखीं...,INCORRECT,HIGH,Invalid: triple character repetition
+किया...,INCORRECT,HIGH,Invalid: triple character repetition
+एटीन्,INCORRECT,HIGH,Suspicious: ends with halant
+हैल्,INCORRECT,HIGH,Suspicious: ends with halant
+वगेैरा,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+विद्,INCORRECT,HIGH,Suspicious: ends with halant
+स्किल्ससस,INCORRECT,HIGH,Invalid: triple character repetition
+बेेहतर,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+ट्रांसपर्,INCORRECT,HIGH,Suspicious: ends with halant
+हेहहहह,INCORRECT,HIGH,Invalid: triple character repetition
+थिओरिटिकल्,INCORRECT,HIGH,Suspicious: ends with halant
+हेहहह।,INCORRECT,HIGH,Invalid: triple character repetition
+हेहहह,INCORRECT,HIGH,Invalid: triple character repetition
+बीकॉस्,INCORRECT,HIGH,Suspicious: ends with halant
+हेै,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अकेेले,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+उसमें...,INCORRECT,HIGH,Invalid: triple character repetition
+रुपए...,INCORRECT,HIGH,Invalid: triple character repetition
+बताऊॅं,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+समुथ्,INCORRECT,HIGH,Suspicious: ends with halant
+है।मतलब...,INCORRECT,HIGH,Invalid: triple character repetition
+इे,INCORRECT,HIGH,Invalid: vowel sign after independent vowel
+याररर,INCORRECT,HIGH,Invalid: triple character repetition
+स्थानीय्,INCORRECT,HIGH,Suspicious: ends with halant
+कुुुछ,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+पाएं।...तो,INCORRECT,HIGH,Invalid: triple character repetition
+विक्,INCORRECT,HIGH,Suspicious: ends with halant
+अलाव्,INCORRECT,HIGH,Suspicious: ends with halant
+दीम...और,INCORRECT,HIGH,Invalid: triple character repetition
+वैसे...,INCORRECT,HIGH,Invalid: triple character repetition
+अच्छअच्,INCORRECT,HIGH,Suspicious: ends with halant
+केेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+झंडारोहन्,INCORRECT,HIGH,Suspicious: ends with halant
+इनकीे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हैैैैं,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+रहना...,INCORRECT,HIGH,Invalid: triple character repetition
+इइइइ,INCORRECT,HIGH,Invalid: triple character repetition
+एकस्,INCORRECT,HIGH,Suspicious: ends with halant
+हैें,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+गड़बड्,INCORRECT,HIGH,Suspicious: ends with halant
+अपन्,INCORRECT,HIGH,Suspicious: ends with halant
+देखिए...,INCORRECT,HIGH,Invalid: triple character repetition
+अपाहिज...,INCORRECT,HIGH,Invalid: triple character repetition
+ावी,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+ाचा,INCORRECT,HIGH,Invalid: starts with vowel sign / nasal
+बैठेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हाहाहा....हम्म...ठीक,INCORRECT,HIGH,Invalid: triple character repetition
+एक्स्प्,INCORRECT,HIGH,Suspicious: ends with halant
+फैम्,INCORRECT,HIGH,Suspicious: ends with halant
+क्यूट्,INCORRECT,HIGH,Suspicious: ends with halant
+चाइल्,INCORRECT,HIGH,Suspicious: ends with halant
+सुकूून,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+आपकेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+अच्छा...चलिए,INCORRECT,HIGH,Invalid: triple character repetition
+डेकोमेंट्,INCORRECT,HIGH,Suspicious: ends with halant
+लाइन्,INCORRECT,HIGH,Suspicious: ends with halant
+ऑन्,INCORRECT,HIGH,Suspicious: ends with halant
+भटूरेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+शक्तिमान...,INCORRECT,HIGH,Invalid: triple character repetition
+परिक्,INCORRECT,HIGH,Suspicious: ends with halant
+बो्,INCORRECT,HIGH,Suspicious: ends with halant
+निरंतार्,INCORRECT,HIGH,Suspicious: ends with halant
+सर...शिक्षा,INCORRECT,HIGH,Invalid: triple character repetition
+मयंमार्,INCORRECT,HIGH,Suspicious: ends with halant
+औडिस...,INCORRECT,HIGH,Invalid: triple character repetition
+चेेंज,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+...सुप्रभात,INCORRECT,HIGH,Invalid: triple character repetition
+सीखनेेेेेेेे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+उच्,INCORRECT,HIGH,Suspicious: ends with halant
+सैैंतालीस,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+हाँअम्,INCORRECT,HIGH,Suspicious: ends with halant
+सपोस्,INCORRECT,HIGH,Suspicious: ends with halant
+बोफ्,INCORRECT,HIGH,Suspicious: ends with halant
+सिलेक्,INCORRECT,HIGH,Suspicious: ends with halant
+वेैसे,INCORRECT,HIGH,Invalid: repeated matra (ाा / ीी / etc.)
+मिलेगा...,INCORRECT,HIGH,Invalid: triple character repetition
+"स्वाद...""",INCORRECT,HIGH,Invalid: triple character repetition
+आनन्,INCORRECT,HIGH,Suspicious: ends with halant
+हॉस्,INCORRECT,HIGH,Suspicious: ends with halant
+स्काउट्,INCORRECT,HIGH,Suspicious: ends with halant
+हूँ...हाहाहाहाहाहा....,INCORRECT,HIGH,Invalid: triple character repetition
+एएएमएम,INCORRECT,HIGH,Invalid: triple character repetition
+ट्रेवेल्,INCORRECT,HIGH,Suspicious: ends with halant
+इवेंटस्,INCORRECT,HIGH,Suspicious: ends with halant
+दीदी...,INCORRECT,HIGH,Invalid: triple character repetition

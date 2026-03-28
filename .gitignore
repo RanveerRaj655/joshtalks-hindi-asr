@@ -1,0 +1,41 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / OS specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# ASR Models and Weights
+whisper-small-hi-finetuned/
+runs/
+*.ckpt
+*.safetensors
+*.bin
+*.h5
+
+# Audio Datasets and Files
+raw_audio/
+processed_audio/
+*.wav
+*.mp3
+*.flac
+hindi_asr_dataset/
+
+# Dictionaries / temporary downloads
+hindi_dictionaries/
+.cache/
+huggingface/
